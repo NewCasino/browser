@@ -1,6 +1,4 @@
-/*
- * Copyright 2014 A.C.R. Development
- */
+
 package com.youkes.browser.constant;
 
 import android.content.Context;
