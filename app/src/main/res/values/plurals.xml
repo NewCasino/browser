@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (c) 2013 The CCP project authors. All Rights Reserved.
+ 
+ 	 Use of this source code is governed by a Beijing Speedtong 
+ 	 Information Technology Co.,Ltd license that can be found in the 
+ 	 LICENSE file in the root of the web site.
+ 
+     http://www.yuntongxun.com
+ 
+     An additional intellectual property rights grant can be found
+     in the file PATENTS.  All contributing project authors may
+ 	 be found in the AUTHORS file in the root of the source tree.
+-->
+<resources>
+    <plurals name="tab_desc_unread">
+        <item quantity="other">%d条未读</item>
+        <item quantity="one">%d条未读</item>
+    </plurals>
+    <plurals name="tab_name_site_desc">
+        <item quantity="other">标签%d之</item>
+        <item quantity="zero">标签%d之1</item>
+        <item quantity="one">标签%d之2</item>
+        <item quantity="two">标签%d之3</item>
+    </plurals>
+    <plurals name="notification_fmt_multi_msg_and_talker">
+        <item quantity="other">%1$d个联系人发来%2$d条消息</item>
+        <item quantity="one">%1$d个联系人发来%2$d条消息</item>
+    </plurals>
+    <plurals name="notification_fmt_multi_msg_and_one_talker">
+        <item quantity="other">发来%d条消息</item>
+        <item quantity="one">发来%d条消息</item>
+    </plurals>
+
+</resources>

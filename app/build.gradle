@@ -1,0 +1,38 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.1"
+
+    defaultConfig {
+        applicationId "com.youkes.browser"
+        minSdkVersion 15
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+
+    compile 'com.github.bumptech.glide:glide:3.6.1'
+    compile 'com.umeng.analytics:analytics:latest.integration'
+
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:23.0.1'
+    compile 'com.android.support:design:23.0.1'
+
+    compile files('libs/nineoldandroids-2.4.0.jar')
+    compile files('libs/jsoup-1.8.3.jar')
+    compile files('libs/libammsdk.jar')
+    compile files('libs/open_sdk_r5509.jar')
+    compile files('libs/mta-sdk-1.6.2.jar')
+
+}

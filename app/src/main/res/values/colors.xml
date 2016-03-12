@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="abc_search_url_text_normal">#ff7fa87f</color>
+    <color name="dialog_title_background">#17170443</color>
+    <color name="image_loading_bg">#ffefefef</color>
+    <color name="image_loading_bg_night">#ff2b2b2b</color>
+    <color name="default_text_night">#ff747474</color>
+    <item name="abc_search_url_text_selected" type="color">@*android:color/black</item>
+    <item name="abc_search_url_text_pressed" type="color">@*android:color/black</item>
+    <item name="green_btn_color_disable" type="color">#337423</item>
+    <color name="item_abstract_normal">#ff444444</color>
+    <color name="item_abstract_disabled">#ff929292</color>
+    <item name="green_btn_text_color_disable" type="color">#cfdecf</item>
+    <item name="green_btn_color_disable1" type="color">@color/ccp_green_alpha</item>
+    <color name="main_red">#ffcc3131</color>
+    <color name="default_text">#ff454545</color>
+    <color name="link_color">#ff13679d</color>
+    <color name="listview_item_normal">#eef0ed</color>
+    <color name="listview_item_pressed">#d4d4d4</color>
+    <color name="ss_comment_from">#ff999999</color>
+    <color name="ss_comment_from_night">#ff999999</color>
+    <color name="ss_comment_time">#ff999999</color>
+    <color name="ss_comment_time_night">#ff505050</color>
+    <color name="ss_comment_section">#ff65544a</color>
+    <color name="divider_day">#ffdddddd</color>
+    <color name="divider_night">#ff303030</color>
+    <color name="activity_bg_color">#fff5f5f5</color>
+    <color name="item_local">#ffffffff</color>
+    <color name="item_local_night">#ff1a1a1a</color>
+    <color name="item_title_normal">#ff444444</color>
+    <color name="item_link_color">#52719f</color>
+    <color name="item_title_disabled">#ff888888</color>
+    <color name="gray_dark_light">#777777</color>
+    <color name="white_lighter">#eeeeee</color>
+    <color name="gray_dark_blue">#5A6377</color>
+    <color name="green">#ff228B22</color>
+    <color name="halftransparent">#aa000000</color>
+    <color name="semitransparent">#90000000</color>
+    <color name="semitransparent_light">#20000000</color>
+    <color name="list_divider">#ffdadada</color>
+    <color name="green_btn_color_pressed">#ff298409</color>
+    <color name="white_btn_color_pressed">#cecece</color>
+    <color name="white_btn_color_normal">#ebebeb</color>
+    <color name="lightgray">#ffe3e3e3</color>
+
+    <color name="gray">#ff9a9b9c</color>
+
+    <color name="white_light">#f2f2f2</color>
+    <color name="circle_btn_color_normal">#ececec</color>
+    <color name="circle_btn_color_pressed">#cecece</color>
+    <color name="white_dark">#cecece</color>
+
+    <color name="black_light">#ff444444</color>
+
+    <color name="normal_text_color">#ff353535</color>
+    <color name="light_text_color">#ffd7d7d7</color>
+    <color name="background_dark">#ff000000</color>
+    <color name="bright_foreground_light">@color/background_dark</color>
+    <color name="bright_foreground_light_disabled">#80000000</color>
+    <color name="actionbar_selector_color">#4d000000</color>
+    <color name="actionbar_bg_color">#ff2e3132</color>
+    <color name="list_devider_color">#fff2f2f2</color>
+    <color name="progress_horizontal_green">#ff45c01a</color>
+    <color name="hint_text_color">#ff999999</color>
+    <color name="actionbar_devider_color">#ff212324</color>
+    <color name="white_color_disable">#7fffffff</color>
+    <color name="dialog_transparent">#bf000000</color>
+    <color name="ccp_green">#ff00B486</color>
+    <color name="launcher_tab_text_color">#ff636363</color>
+    <color name="launcher_tab_text_color_press">#ffc9c9c9</color>
+    <color name="ccp_green_alpha">#7f00B486</color>
+    <color name="navpage">#ffffffff</color>
+    <color name="last_msg_tv_color">#ffaaaaaa</color>
+    <color name="lightgrey">#ff888888</color>
+    <color name="footer_text_color">#ff7f7f7f</color>
+    <color name="chatroom_user_displayname_color">#A9A9A9</color>
+    <color name="hint_text_color_dark_bg">#ff484c4c</color>
+    <color name="form_hint_text_color">#ffdddddd</color>
+    <color name="ccp_attentoin_color">#CCCCCC</color>
+    <color name="text_disabled">#ffa8a8a8</color>
+    <color name="common_popup_menu_list_divider">#ff191919</color>
+    <color name="edit_save_btn_color_disable">#ffa8c6ed</color>
+    <color name="edit_save_btn_color_click">#ffffffff</color>
+    <color name="small_line_color">#26000000</color>
+    <color name="action_bar_tittle_color">#ffcfcfcf</color>
+    <color name="red_btn_color_normal">#ffff5454</color>
+    <color name="green_btn_color_normal">#ff45c01a</color>
+    <color name="top_bar_color">#ff222c2c</color>
+    <color name="red_btn_color_pressed">#ffd24242</color>
+    <color name="red_btn_color_disable">#7fff5454</color>
+    <color name="text_content">#ffa19d94</color>
+    <color name="dialog_background">#fffbf6f2</color>
+    <color name="dialog_btn_press">#ffece5df</color>
+    <color name="dialog_divider">#ffe8e0da</color>
+    <color name="dialog_btn_normal">#fffbf6f2</color>
+    <color name="dialog_item_normal">#fff7f1ec</color>
+    <color name="dialog_item_press">#ffece5df</color>
+    <color name="dialog_backgroud_full">#88000000</color>
+    <color name="text_desc">#ffbebbb4</color>
+    <color name="text_title">#ff5f5f5f</color>
+    <color name="blue">#ff169aff</color>
+    <color name="album_ui_bg">#ff191919</color>
+    <color name="bottom_notepad_panel_bg">#FFF4F4F4</color>
+    <color name="hint_color_white_bg">#ffc5c5c5</color>
+    <color name="devideline_listview">#ffe5e2d4</color>
+
+    <item name="menu_pressed_color" type="color">@color/small_line_color</item>
+
+    <color name="bg_bottom_tip">#cc000000</color>
+    <color name="bg_warning">#fffde1b6</color>
+    <color name="text_warning">#ffb8956b</color>
+
+    <!-- drop down list header font color -->
+    <color name="drop_down_list_header_font_color">#000000</color>
+    <!-- drop down list header second font color -->
+    <color name="drop_down_list_header_second_font_color">#000000</color>
+    <!-- drop down list footer font color -->
+    <color name="drop_down_list_footer_font_color">#A2A3A2</color>
+
+
+
+    <color name="black">#ff000000</color>
+    <color name="light">#ffa0a0a0</color>
+    <color name="gray_dark">#222222</color>
+    <color name="gray_dark2">#444444</color>
+    <color name="gray_dark25">#555555</color>
+    <color name="gray_dark3">#666666</color>
+    <color name="gray_dark4">#888888</color>
+
+    <color name="gray_light">#666666</color>
+    <color name="gray_medium">#cdcdcd</color>
+    <color name="gray_lighter">#efefef</color>
+    <color name="white">#ffffff</color>
+    <color name="gray_extra_dark">#1b1b1b</color>
+    <color name="gray_list_bg">#0d000000</color>
+    <color name="dark_text">#212121</color>
+
+    <color name="primary_color">#E0E0E0</color>
+    <color name="secondary_color">#4D000000</color>
+    <color name="accent_color">#0073EF</color>
+
+    <color name="drawer_background">#ffffff</color>
+    <color name="drawer_background_dark">#424242</color>
+
+    <color name="secondary_color_settings">#9C9C9C</color>
+    <color name="secondary_color_settings_dark">#2E2E2E</color>
+
+    <color name="hint_text">#BDBDBD</color>
+
+    <color name="primary_color_dark">#424242</color>
+
+    <color name="divider_dark">#1EFFFFFF</color>
+    <color name="divider_light">#1E000000</color>
+
+
+    <color name="selected_dark">#0FFFFFFF</color>
+    <color name="selected_light">#0F000000</color>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="popup_main_background">#b0000000</color>
+
+    <color name="choose_eara_item_press_color">#f4f4f4</color>
+
+    <color name="no_color">#00000000</color>
+
+    <color name="subscribe_line_color">#ffd9d9d9</color>
+    <color name="subscribe_line_color_night">#ff464646</color>
+    <color name="subscribe_bg">#fff5f5f5</color>
+    <color name="subscribe_bg_night">#ff252525</color>
+    <color name="subscribe_icon_day">#ff444444</color>
+    <color name="subscribe_tip_text">#ff2e2e2e</color>
+
+    <item name="subscribe_tip_text_night" type="color">@color/default_text_night</item>
+
+    <color name="subscribe_activity_bg">#ffefefef</color>
+    <color name="subscribe_activity_bg_night">#ff252525</color>
+    <color name="subscribe_seperate_line">#ffcdcdcd</color>
+    <color name="subscribe_seperate_line_night">#ff464646</color>
+
+    <item name="subscribe_item_text_color_normal" type="color">@color/default_text</item>
+
+    <color name="subscribe_item_text_color_pressed">#ffb9b9b9</color>
+
+    <item name="subscribe_item_text_color_normal_night" type="color">@color/default_text_night</item>
+
+    <color name="subscribe_item_text_color_pressed_night">#ff303030</color>
+    <color name="subscribe_item_focused_stroke">#ffd9d9d9</color>
+    <color name="subscribe_item_drag_stroke">#ffd2d2d2</color>
+    <color name="subscribe_item_drag_bg">#fff5f5f5</color>
+    <color name="subscribe_item_drag_stroke_night">#ff464646</color>
+    <color name="subscribe_item_drag_bg_night">#ff252525</color>
+    <color name="subscribe_item_selected_bg">#ffffffff</color>
+    <color name="subscribe_item_selected_stroke">#ffcc3131</color>
+    <color name="subscribe_item_disabled_bg">#ffefefef</color>
+    <color name="subscribe_item_disabled_stroke">#ffd9d9d9</color>
+    <color name="subscribe_item_pressed_bg">#fff9f9f9</color>
+    <color name="subscribe_item_pressed_stroke">#ffcdcdcd</color>
+    <color name="subscribe_item_normal_bg">#fff5f5f5</color>
+    <color name="subscribe_item_normal_stroke">#ffcdcdcd</color>
+    <color name="subscribe_item_focused_bg_night">#ff252525</color>
+    <color name="subscribe_item_focused_stroke_night">#ff464646</color>
+    <color name="subscribe_item_selected_bg_night">#ff252525</color>
+    <color name="subscribe_item_selected_stroke_night">#ffbc494d</color>
+    <color name="subscribe_item_disabled_bg_night">#ff2b2b2b</color>
+
+    <item name="subscribe_item_disabled_stroke_night" type="color">@color/subscribe_item_focused_stroke_night</item>
+    <item name="subscribe_item_pressed_bg_night" type="color">@color/subscribe_item_disabled_bg_night</item>
+    <item name="subscribe_item_pressed_stroke_night" type="color">@color/subscribe_item_focused_stroke_night</item>
+    <item name="subscribe_item_normal_bg_night" type="color">@color/subscribe_item_focused_bg_night</item>
+    <item name="subscribe_item_normal_stroke_night" type="color">@color/subscribe_item_focused_stroke_night</item>
+
+
+</resources>

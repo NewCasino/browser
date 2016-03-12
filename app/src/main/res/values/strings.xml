@@ -1,0 +1,1443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">优分享浏览器</string>
+    <string name="app_name_inner">优分享浏览器</string>
+
+    <string name="backward">后退</string>
+    <string name="forward">前进</string>
+
+    <string name="prev_chapter">上一章</string>
+    <string name="next_chapter">下一章</string>
+
+    <string name="chapter_select">章节</string>
+    <string name="full_screen">全屏</string>
+    <string name="last_tab_not_close">不能关闭最后一个标签</string>
+    <string name="back">返回</string>
+    <string name="back_to_home">返回到桌面</string>
+    <string name="last_img_not_del">不能删除最后一张图片</string>
+    <string name="undo">撤消</string>
+    <string name="redo">重做</string>
+    <string name="add_text_node">添加</string>
+    <string name="publish">发布</string>
+    <string name="preview">预览</string>
+    <string name="view">文章</string>
+    <string name="setting_about_description">发现并分享</string>
+    <string name="all_rights_reserved">Copyright © 2016 优分享浏览器 All Rights Reserved. </string>
+    <string name="app_server_view">登陆参数配置</string>
+    <string name="app_server_config_error_tips">请先进行登陆参数配置</string>
+    <string name="confirm_down">确定下载该文件?</string>
+    <string name="confirm_down_prefix">确定下载:\n</string>
+    <string name="confirm">确认</string>
+    <string name="pic_user">用户图片</string>
+    <string name="add_friend">加朋友</string>
+    <string name="add_focus">关注</string>
+    <string name="user_info">用户信息</string>
+    <string name="confirm_delete">确认删除</string>
+    <string name="download">下载</string>
+    <string name="download_start">下载开始</string>
+    <string name="download_finish">下载完成</string>
+    <string name="browser_add_bookmark">添加书签</string>
+    <string name="copy_to_clicpboard_succ">已复制到剪贴板</string>
+    <string name="browser_bookmark">书签</string>
+    <string name="browser_history">历史</string>
+    <string name="modifyfavorites">修改书签</string>
+    <string name="deletefavorites">删除书签</string>
+    <string name="deletehistory">删除历史</string>
+    <string name="deleteAllHistory">清空历史</string>
+    <string name="chapter">章节</string>
+    <string name="modify_name">改名</string>
+    <string name="browser_refresh">刷新</string>
+    <string name="clip_board_empty">剪切板为空</string>
+    <string name="open_link_not_url">粘贴为非链接转为搜索</string>
+    <string name="browser_paste_open">粘贴打开</string>
+    <string name="browser_settings">设置</string>
+    <string name="browser_copy_link">复制链接</string>
+    <string name="browser_download">下载</string>
+    <string name="browser_share">截屏分享</string>
+    <string name="browser_exit">退出</string>
+    <string name="browser_load_home">加载主页</string>
+    <string name="browser_home_set">设为主页</string>
+    <string name="browser_hot_site">热门站点</string>
+    <string name="browser_your_site">常访站点</string>
+    <string name="browser_forward">分享到好友/群</string>
+    <string name="browser_open_in__browseer">使用浏览器查看</string>
+    <string name="browser_open_in_external_browseer">使用其他浏览器查看</string>
+    <string name="browser_more">更多</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="browser_back">后退</string>
+    <string name="browser_front">前进</string>
+    <string name="browser_option">选项</string>
+    <string name="browser_home">主页</string>
+    <string name="browser_new_tab">窗口</string>
+    <string name="browser_new_window">+窗口</string>
+    <string name="browser_add_window">+窗口</string>
+    <string name="browser_copy_window">复制窗口</string>
+    <string name="browser_close_other_window">关闭其它</string>
+    <string name="close">关闭</string>
+    <string name="app_server_config">配置</string>
+    <string name="app_login_auto">一键登陆</string>
+    <string name="go_into">进入</string>
+    <string name="action_settings">设置</string>
+    <string name="update_time">更新于</string>
+    <string name="pull_refresh">下拉刷新</string>
+    <string name="head_photo">头像</string>
+    <string name="nickname">昵称</string>
+    <string name="nickname_hint">请输入昵称</string>
+    <string name="fill_empty"></string>
+    <string name="youkes_number">优分享浏览器号:</string>
+    <string name="youkes_number_search">优分享浏览器号</string>
+    <string name="gender">性别</string>
+    <string name="unknown">未知</string>
+    <string name="sign">签名</string>
+    <string name="sign_hint">请输入签名</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="miui_font_family">miui</string>
+    <string name="confirm_dialog_edittext_hint">说些什么</string>
+    <string name="tab_view_name">EC_TAB_NAME</string>
+    <string name="main_title">沟通</string>
+    <string name="main_msg">消息</string>
+    <string name="main_friend">朋友</string>
+    <string name="friend_circle">朋友圈</string>
+    <string name="my_favorite">我的收藏</string>
+    <string name="space">分享</string>
+    <string name="space_my">我的分享</string>
+    <string name="topic_circle">话题圈</string>
+    <string name="creative_read">阅读</string>
+    <string name="creative">创作</string>
+    <string name="user">用户</string>
+    <string name="hobby_circle">兴趣圈</string>
+    <string name="hobby_circle_select">选择兴趣圈</string>
+    <string name="page_select_prompt">page_select_prompt</string>
+
+    <string name="hint_chapter_go">跳到章节</string>
+
+
+    <string name="chapter_jump">跳到章节</string>
+    <string name="chapter_prev">前章</string>
+    <string name="chapter_next">后章</string>
+
+    <string name="server_error">服务器错误</string>
+
+    <string name="page_prev">上页</string>
+    <string name="page_next">下页</string>
+
+    <string name="hint_search_article">下页</string>
+    <string name="filter">筛选</string>
+
+    <string name="focus">关注</string>
+    <string name="focus_cancel">取消关注</string>
+
+    <string name="read">阅读</string>
+
+    <string name="novel">小说</string>
+    <string name="comic">漫画</string>
+    <string name="novel_add">添加小说</string>
+    <string name="novel_add_chapter">添加章节</string>
+
+    <string name="news">新闻</string>
+    <string name="news_sufix">的新闻</string>
+    <string name="news_my">我的新闻</string>
+    <string name="video_upload">上传视频</string>
+    <string name="footprint_upload">上传足迹</string>
+    <string name="video_cloud_upload">上传视频到云盘</string>
+    <string name="video_my">我的视频</string>
+    <string name="post_news">发布新闻</string>
+
+    <string name="note_sufix">的文章</string>
+
+    <string name="topic_circle_name">话题圈名</string>
+    
+    <string name="topic_circle_my">我的话题圈</string>
+    <string name="topic_my">我的话题</string>
+
+    <string name="hint_text">文本</string>
+
+    <string name="topic_circle_name_empty">话题圈名为空</string>
+    <string name="main_contact">通讯录</string>
+    <string name="map">地图</string>
+    <string name="video">视频</string>
+    <string name="book">图书</string>
+    <string name="book_share">图书分享</string>
+    <string name="movie_share">电影分享</string>
+    <string name="buy">购买</string>
+    <string name="share">分享</string>
+
+    <string name="share_web_page_simple">分享</string>
+
+    <string name="edit">编辑</string>
+    <string name="edit_web">编辑网页</string>
+    <string name="manage">管理</string>
+    <string name="edit_site_prefix">编辑站点:</string>
+
+    <string name="share_to_social">社交分享</string>
+
+    <string name="share_to_qq_friend">分享给QQ朋友</string>
+    <string name="share_to_qq_zone">分享到QQ空间</string>
+    <string name="share_to_weixin_friend">分享给微信朋友</string>
+    <string name="share_to_weixin_circle">分享到微信朋友圈</string>
+
+    <string name="share_to_topic_circle">分享到兴趣圈</string>
+    <string name="share_to">分享到</string>
+    <string name="topic">话题</string>
+    <string name="third_party_login">社交登录</string>
+    <string name="community">社区</string>
+    <string name="share_pic">分享到图片</string>
+    <string name="share_my">我的分享</string>
+    <string name="share_circle">分享到朋友圈</string>
+    <string name="chat_send_img">发送图片</string>
+    <string name="share_public">分享到图片</string>
+    <string name="share_goods">分享到商品</string>
+    <string name="share_news">分享到新闻</string>
+    <string name="save_pic">保存图片</string>
+    <string name="save">保存</string>
+    <string name="save_success">保存成功</string>
+    <string name="save_fail">保存失败</string>
+    <string name="save_fail_title">保存失败,标题太短</string>
+    <string name="sendto_friend">发送给朋友</string>
+    <string name="share_weixin_circle">分享到微信空间</string>
+    <string name="share_weixin_friend">发送给微信朋友</string>
+    <string name="share_friend">发送给朋友</string>
+    <string name="share_from">分享自</string>
+    <string name="topic_circle_add">创建兴趣圈</string>
+    <string name="topic_add">发起话题</string>
+    <string name="topic_reply">回复话题</string>
+    <string name="topic_prefix">话题:</string>
+    <string name="reply">回复</string>
+    <string name="bind_qq">绑定QQ并登录</string>
+    <string name="topic_share_my">我的话题圈</string>
+    <string name="browser_input_hint">搜索或输入网址</string>
+    <string name="browser">浏览器</string>
+    <string name="browser_no_back">没有后退网页了</string>
+    <string name="browser_no_forward">没有前进网页了</string>
+    <string name="pubplatform">公共平台</string>
+    <string name="pubnumber">定阅号</string>
+    <string name="more">更多</string>
+    <string name="more_discover">更多发现</string>
+    <string name="appstore">应用</string>
+    <string name="app_down">应用下载</string>
+    <string name="file">文件</string>
+    <string name="file_down">文件下载</string>
+    <string name="file_upload">文件上传</string>
+    <string name="file_upload_video">上传视频</string>
+    <string name="file_upload_image">上传图片</string>
+    <string name="file_upload_docs">上传文档</string>
+    <string name="file_upload_audio">上传音频</string>
+    <string name="app">应用</string>
+    <string name="main_group">群组</string>
+    <string name="search">搜索</string>
+    <string name="group">群组</string>
+    <string name="pic">图片</string>
+    <string name="reach_max_pics">达到最多上传图片数</string>
+    <string name="image_set">图集</string>
+    <string name="pic_circle">图片圈</string>
+    <string name="link">链接</string>
+    <string name="goods">商品</string>
+    <string name="site">站点</string>
+    <string name="site_add">创建站点</string>
+    <string name="share_video">分享到视频</string>
+    <string name="creative_works_add">创作作品</string>
+    <string name="play_video">播放视频</string>
+    <string name="shop">店铺</string>
+    <string name="same_city">同城</string>
+    <string name="campus">校园</string>
+
+    <string name="travel">旅行</string>
+    <string name="travel_spot">景点</string>
+    <string name="travel_note">游记</string>
+    <string name="movie">电影</string>
+    <string name="pubno">公众号</string>
+    <string name="fav">收藏</string>
+    <string name="fav_web_image">收藏图片</string>
+    <string name="pic_upload">上传图片</string>
+
+    <string name="pic_my">我的图片</string>
+    <string name="pic_album">图片专辑</string>
+
+    <string name="goods_my">我的商品</string>
+    <string name="goods_album">商品专辑</string>
+    <string name="goods_my_album">我的商品专辑</string>
+    <string name="goods_my_private">我的私有商品</string>
+
+    <string name="site_my">我的站点</string>
+    <string name="site_suffix">的站点</string>
+
+    <string name="network_waste">网络流量浪费</string>
+
+    <string name="play_ptt">播放语音</string>
+    <string name="pic_my_private">我的私有图片</string>
+    <string name="pic_my_album">我的专辑</string>
+    <string name="album">专辑</string>
+    <string name="album_name">专辑名</string>
+    <string name="share_private">私藏</string>
+    <string name="create_album">创建专辑</string>
+    <string name="choose_album">选择专辑</string>
+    <string name="tags_add">添加标签</string>
+    <string name="img_add">添加图片</string>
+    <string name="cover_set">设置封面</string>
+    <string name="tags">标签</string>
+    <string name="add">添加</string>
+    <string name="add_shortcut">添加快捷方式</string>
+    <string name="add_article">添加文章</string>
+    <string name="article">文章</string>
+    <string name="article_my">我的文章</string>
+
+    <string name="select_pic">选择图片</string>
+    <string name="select">选择</string>
+    <string name="object_name">请输入OSS文件名</string>
+    <string name="normal">普通上传下载</string>
+
+    <string name="upload">上传</string>
+    <string name="multipart_upload"> 上传</string>
+    <string name="multipart_pause">暂停</string>
+    <string name="multipart">断点续传上传</string>
+    <string name="resize_width">缩略宽度</string>
+    <string name="resize_height">缩略高度</string>
+    <string name="resize">图片缩略</string>
+    <string name="watermark">文字水印</string>
+    <string name="watermark_hint">请输入水印文字</string>
+    <string name="watermark_size">文字大小</string>
+    <string name="stsserver">STS服务器地址</string>
+
+    <string name="creative_works_my">我的作品</string>
+
+    <string name="site_article">站点文章</string>
+    <string name="add_article_completed">添加文章成功</string>
+    <string name="del_nav">删除</string>
+    <string name="del_site_confirm">确认删除该站点</string>
+    <string name="tags_max_limit">不能添加更多的标签</string>
+
+    <string name="create_news_group">创建新闻圈</string>
+    <string name="album_desc">专辑描述</string>
+    <string name="main_discover">发现</string>
+    <string name="main_my">我</string>
+    <string name="unread_count_overt_100">"…"</string>
+    <string name="common_enter_activity">当前所在页面,</string>
+    <string name="logout_menu_more">更多</string>
+    <string name="main_empty_conversation">暂无聊天信息</string>
+
+    <string name="main_empty_result">暂无结果,下拉刷新</string>
+    <string name="main_empty_result_focus">您没有关注过兴趣圈</string>
+
+    <string name="error_request_pull_refresh">请求暂时失败,下拉刷新</string>
+
+
+    <string name="main_empty_search_group">暂无结果</string>
+    <string name="main_empty_notice">暂无群组通知</string>
+    <string name="main_empty_group">暂无群组列表</string>
+    <string name="avatar_desc">头像</string>
+    <string name="media_ejected">储存卡已拔出，语音功能将暂时不可用</string>
+    <string name="media_no_memory">储存卡存储空间不足</string>
+    <string name="voice_cancel_rcd_release">松开手指，取消发送</string>
+    <string name="chatfooter_releasetofinish">松开 结束</string>
+    <string name="chatfooter_presstorcd">按住 说话</string>
+    <string name="chatting_send">发送</string>
+    <string name="chat_footer_app_btn">更多</string>
+    <string name="chat_footer_smiley_btn">表情</string>
+    <string name="chat_footer_switch_mode_btn">语音说话与键盘输入切换</string>
+    <string name="chat_footer_switch_mode_voice_btn">切换到按住说话</string>
+    <string name="chat_footer_switch_mode_keybord_btn">切换到键盘</string>
+    <string name="chatfooter_cancel_rcd">手指上滑，取消发送</string>
+    <string name="chatfooter_cancel_rcd_release">松开手指，取消发送</string>
+    <string name="chatfooter_too_short">录音时间太短</string>
+    <string name="app_new">new</string>
+    <string name="app_panel_pic">图片</string>
+    <string name="app_panel_tackpic">拍照</string>
+    <string name="app_panel_file">文件</string>
+    <string name="fmt_time_length">%d\"</string>
+    <string name="login_account_hint">请输入优分享浏览器注册邮箱/手机</string>
+    <string name="login_please">请登录</string>
+    <string name="login_password_hint">请输入密码</string>
+    <string name="str_no_choice_account">还未选择子账号，请点选</string>
+    <string name="str_start_ex">开始体验</string>
+    <string name="confirm_exit_browser">确定退出浏览器?</string>
+    <string name="hint">提示</string>
+    <string name="hint_name">名称</string>
+    <string name="hint_desc">描述</string>
+    <string name="type">类型</string>
+    <string name="hint_moment_think">这一刻的想法</string>
+    <string name="hint_favorite">收藏备注</string>
+    <string name="hint_chat_images_sending">想要发送的关于图片的文字</string>
+    <string name="hint_search">搜索</string>
+    <string name="img_only">仅图片</string>
+    <string name="main_sending">正在发送中</string>
+    <string name="tips_regist_1">"登陆<font color="#1DB87F">youkes.com</font>并注册"</string>
+    <string name="tips_regist_2">填写注册基本资料</string>
+    <string name="tips_regist_3">注册成功，获得8元测试体验费</string>
+    <string name="login_youkes">优分享浏览器登录</string>
+    <string name="view_topic_circle">查看话题圈</string>
+    <string name="select_topic_circle">选择话题圈</string>
+    <string name="view_topic">查看话题</string>
+    <string name="login_regist">注册</string>
+    <string name="share_app">分享该应用</string>
+    <string name="can_qq_bind_exist_user">绑定已有用户名或创建新用户</string>
+    <string name="visitor_visit">游客访问</string>
+    <string name="login_qq">QQ登录</string>
+    <string name="login_login">登 录</string>
+    <string name="regist_regist">注册</string>
+    <string name="qq_login_first">绑定并登录</string>
+    <string name="regist_login">登 录</string>
+    <string name="regist_success_prompt">注册成功，请登录</string>
+    <string name="login_submit">提 交</string>
+    <string name="tips_login_accountpwd_null">帐号或密码不能为空</string>
+    <string name="tab_loading">正在加载…</string>
+    <string name="app_tip">提示</string>
+    <string name="app_update">更新</string>
+    <string name="entrance_chat_tips">发消息</string>
+    <string name="contact_contactDetail">详情</string>
+    <string name="contact_none">联系人不存在</string>
+    <string name="main_plus_chat">发起会话/群聊</string>
+    <string name="main_plus_groupchat">创建群组</string>
+    <string name="main_plus_querygroup">查找群组</string>
+    <string name="main_plus_settings">设置</string>
+    <string name="main_title_select_account">选择登陆帐号</string>
+    <string name="str_group_name_hint">群组名称</string>
+    <string name="str_group_notice_hint">群公告(选填)</string>
+    <string name="app_button_create">创建</string>
+    <string name="comment">评论</string>
+    <string name="topic_enter">详情</string>
+    <string name="first_floor">1楼</string>
+    <string name="zero_floor">顶楼</string>
+    <string name="copy">复制</string>
+    <string name="paste">粘贴</string>
+    <string name="send">发送</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="app_title_create_new_group">建立新群组</string>
+    <string name="app_title_search_group">搜索群组</string>
+    <string name="app_title_setting_persioninfo">设置个人信息</string>
+    <string name="app_set">设置</string>
+    <string name="finish">完成</string>
+    <string name="select_contacts">选择联系人</string>
+    <string name="settings_new_msg_notify">消息免打扰</string>
+    <string name="settings_new_msg_notification_sound">新消息声音</string>
+    <string name="settings_new_msg_notification_shake">新消息震动</string>
+    <string name="settings_server_address">服务器地址</string>
+    <string name="settings_appkey">AppKey</string>
+    <string name="settings_apptoken">Token</string>
+    <string name="settings_updater">更新版本</string>
+    <string name="settings_exit_title">退出客户端</string>
+    <string name="query_save_current_work">确定保存当前编辑文档?</string>
+    <string name="settings_exit_tip">确定退出当前账号?</string>
+    <string name="settings_switch_title">退出账号</string>
+    <string name="address_history_group_card">选择一个群</string>
+    <string name="address_group_card_empty_tip">暂无群聊可选</string>
+    <string name="address_select_group_card">选择群聊</string>
+    <string name="empty"></string>
+    <string name="upload_pic">上传图片</string>
+    <string name="upload_image_set">上传图片到画集</string>
+    <string name="upload_pic_error_big">上传图片太大</string>
+
+    <string name="map_shot_share">分享地图位置</string>
+    <string name="radar_ok_count" formatted="false">%s(%d)</string>
+    <string name="dialog_ok_button">确定</string>
+    <string name="dialog_ok_skip">跳过</string>
+    <string name="str_group_notice_tips">群公告</string>
+    <string name="str_group_profile_tips">群简介</string>
+    <string name="str_group_members_tips">群成员(%d)</string>
+    <string name="str_group_members_titletips">(%d)</string>
+    <string name="str_group_remove">踢出</string>
+    <string name="str_group_speak_enable">恢复</string>
+    <string name="str_group_speak_disenable">禁言</string>
+    <string name="plugin_file_explorer_root_tag">设备</string>
+    <string name="plugin_file_explorer_sdcard_tag">存储卡</string>
+    <string name="plugin_file_explorer_ui_title">添加附件</string>
+    <string name="clear_chat">清空聊天记录</string>
+
+    <string name="menu_settings">Settings</string>
+    <string name="no_data">没有找到符合条件</string>
+
+    <string name="please_open_gps">请打开GPS</string>
+    <string name="open">打开</string>
+    <string name="group_title_name">群名称</string>
+    <string name="clear_system_notice">清空系统通知</string>
+    <string name="str_group_quit">退出该群组</string>
+    <string name="str_group_dissolution">解散群组</string>
+    <string name="str_group_invite">邀请成员加入</string>
+    <string name="str_group_member_remove_tips">确定要将群组成员[%s]移除出群组吗？</string>
+    <string name="str_group_member_speak_tips">确定要将群成员[%s]设置为禁言状态？</string>
+    <string name="str_group_member_unspeak_tips">确定要取消群成员[%s]禁言状态？</string>
+    <string name="group_invite_reason" formatted="false">%s邀请你加入群组[%s]</string>
+    <string name="group_apply_reason" formatted="false">%s申请加入群组</string>
+    <string name="group_apply_btn">申请加入</string>
+    <string name="app_title_notice">群组通知</string>
+    <string name="app_clear">清空</string>
+    <string name="delete">删除</string>
+
+    <string name="del_friend">删除朋友</string>
+
+
+    <string name="no_reply">共0回复</string>
+    <string name="left_move">左移</string>
+    <string name="right_move">右移</string>
+
+    <string name="reset_edit">重置编辑</string>
+    <string name="share_to_news">分享到新闻</string>
+
+    <string name="exit">退出</string>
+    <string name="note">文章</string>
+    <string name="memento">记事</string>
+    <string name="note_list">文章列表</string>
+    <string name="note_my">我的文章</string>
+    <string name="my_article">我的文章</string>
+    <string name="add_nav_fail">添加导航失败</string>
+    <string name="del_nav_fail">删除导航失败</string>
+    <string name="add_note">添加文章</string>
+    <string name="add_news">添加新闻</string>
+    <string name="choose_city">选择城市</string>
+    <string name="phone_numbers_search">搜索联系人</string>
+    <string name="phone_numbers">电话薄</string>
+    <string name="photo_upload">上传头像</string>
+    <string name="photo_album">相册</string>
+    <string name="cloud_disk">云盘</string>
+    <string name="cloud_disk_uploading">正在上传</string>
+    <string name="cloud_disk_video">云视频</string>
+    <string name="app_error">应用程序错误</string>
+    <string name="app_error_message">很抱歉，应用程序出现错误，即将退出。\n请选择邮件的方式将此错误报告提交给我，我会尽快修复这个问题，谢谢！</string>
+    <string name="submit_report">提交报告</string>
+    <string name="dialog_btn_confim">确认</string>
+    <string name="dialog_btn_cancel">取消</string>
+    <string name="dialog_title_alert">提示</string>
+    <string name="loading_press">请稍候，正在提交...</string>
+    <string name="loading">正在加载...</string>
+
+    <string name="plugin_upload_attach_size_tip">文件大小为：%s，确定要上传为附件吗？</string>
+     <string name="reconnect">连接失败,是否重新连接</string>
+     
+     <string name="network_not_avail">网络不可用,是否打开WIFI设置?</string>
+     
+     
+    <string name="app_title_image_preview">预览</string>
+    <string name="errormsg_server">网络请求失败，请稍后重试</string>
+    <string name="error_unknown">未知错误</string>
+    <string name="connecting_chat_server">正在连接服务器</string>
+    <string name="imgdownload_fail">下载图片失败</string>
+    <string name="imgdownload_fail_or_cleaned">图片已过期或已被清理</string>
+    <string name="imgdownload_hdimg_download_tip">正在加载原始图片，由于尺寸较大，可能需要较长时间</string>
+    <string name="app_pic">[图片]</string>
+    <string name="app_music">[音乐]</string>
+    <string name="app_voice">[语音]</string>
+    <string name="app_video">[视频]</string>
+    <string name="app_file">[文件]</string>
+    <string name="notification_fmt_one_txttype">%s发来1条消息</string>
+    <string name="notification_fmt_one_imgtype">%s发来1张图片</string>
+    <string name="notification_fmt_one_voicetype">%s发来1段语音</string>
+    <string name="notification_fmt_one_filetype">%s发来1个文件</string>
+    <string name="str_system_message_group_notice">群组通知</string>
+    <string name="login_posting">正在登录，请稍候</string>
+    <string name="login_posting_qq">正在QQ登录，请稍候</string>
+
+    <string name="image_uploading">正在上传图片</string>
+    <string name="video_uploading_start">开始上传视频</string>
+    <string name="please_select_topic_circle">请选择兴趣圈</string>
+    <string name="image_sending">正在发送图片</string>
+    <string name="voice_sending">正在发送声音</string>
+
+    <string name="image_save">保存图片</string>
+
+    <string name="image_set_prefix">图集:</string>
+    <string name="list_prefix">列表:</string>
+    <string name="pic_collecting">正在采集图片，请稍候</string>
+    <string name="link_share">分享链接</string>
+    <string name="link_sharing">正在分享链接，请稍候</string>
+    <string name="book_sharing">正在分享图书，请稍候</string>
+    <string name="article_sharing">正在分享文章，请稍候</string>
+
+    <string name="goods_collecting">正在采集商品，请稍候</string>
+    <string name="news_collecting">正在采集新闻，请稍候</string>
+    <string name="regist_posting">正在注册，请稍候</string>
+    <string name="login_posting_submit">正在提交，请稍候</string>
+    <string name="create_group_posting">正在创建群组，请稍候</string>
+    <string name="search_group_posting">正在搜索群组，请稍候</string>
+    <string name="create_chatroom_posting">正在发起群聊</string>
+    <string name="invite_join_group_posting">正在邀请成员，请稍候</string>
+    <string name="group_exit_posting">正在退出，请稍候</string>
+    <string name="group_remove_member_posting">正在移除成员，请稍候</string>
+    <string name="settings_logout">退出</string>
+
+    <string name="posting_logout">正在退出，请稍后</string>
+    <string name="settings_logout_warning_tip">退出后不会删除任何历史数据，下次登录依然可以使用本帐号</string>
+    <string name="save_tip">保存正在编辑的文档?</string>
+
+    <string name="del_site_nav_tip">删除当前导航栏?</string>
+
+    <string name="exit_rich_text_edit">确定退出编辑当前文档</string>
+    <string name="connect_server_error">连接到服务器失败，请稍后重试</string>
+    <string name="connect_chat_fail">连接到聊天服务器失败</string>
+    <string name="connect_network_error">网络不可用,请打开网络</string>
+    <string name="connect_chat_server_down">聊天服务器暂时不可用</string>
+    <string name="connect_conflict">你的帐号在其它地方被登录，请重新登录</string>
+
+    <string name="connecting_chat">正在连接到聊天服务器</string>
+    <string name="connect_chat_login">正在登录到聊天服务器</string>
+    <string name="connect_chat_login_fail">登录聊天服务器失败</string>
+    <string name="connecting_server">正在连接服务器</string>
+    <string name="chatting_resend_title">重发</string>
+    <string name="chatting_resend_content">确认重发该消息？</string>
+    <string name="pull_to_refresh">下拉可以刷新</string>
+    <string name="release_to_refresh">释放立即刷新</string>
+    <string name="refreshing">正在加载…</string>
+    <string name="not_updated_yet">暂未更新过</string>
+    <string name="updated_at">上次更新于%1$s前</string>
+    <string name="updated_just_now">刚刚更新</string>
+    <string name="time_error">时间有问题</string>
+    <string name="copyright">©Copyright youkes.com</string>
+    <string name="login_prompt_ip">IP</string>
+    <string name="login_prompt_port">port</string>
+    <string name="login_prompt_appkey">appkry</string>
+    <string name="login_prompt_token">token</string>
+    <string name="login_prompt_mobile">手机号码：</string>
+    <string name="login_prompt_userId">用户名：</string>
+    <string name="login_prompt_userPwd">密码：</string>
+    <string name="login_prompt_mobile_hint">请输入手机号</string>
+    <string name="login_prompt_userId_hint">请输入用户名</string>
+
+    <string name="prompt_site_nav">栏名:</string>
+
+    <string name="prompt_site_nav_hint">请输入导航栏名称</string>
+
+    <string name="tags_name_prompt_hint">请输入标签</string>
+
+    <string name="album_name_prompt_hint">请输入专辑名</string>
+    <string name="album_name_prompt">专辑名：</string>
+    <string name="tags_name_prompt">标签：</string>
+
+    <string name="login_prompt_userPwd_hint">请输入密码</string>
+    <string name="regist_prompt_userId_hint">至少6个小写字母或数字</string>
+    <string name="regist_prompt_userPwd_hint">至少6个字符</string>
+    <string name="regist_prompt_userRepwd_hint">与密码相同</string>
+    <string name="regist_verify_hint">点击下方图片更换验证码</string>
+    <string name="price_hint">请输入价格</string>
+    <string name="verify_code">验证码</string>
+    <string name="regist_prompt_userRepwd">确认密码：</string>
+    <string name="regist_prompt_verifyCode">验证码：</string>
+    <string name="price_prompt">价格：</string>
+    <string name="login_prompt_VoIP_account">VoIP账号</string>
+    <string name="login_prompt_VoIP_pass">VoIP密码</string>
+    <string name="login_prompt_VoIP_account_tips">请输入VoIP账号</string>
+    <string name="login_prompt_VoIP_pass_tips">请输入VoIP密码</string>
+    <string name="login_prompt_nickname">昵  称</string>
+    <string name="login_title_activity">login_title_activity</string>
+    <string name="mobile_contact">手机联系人</string>
+    <string name="mobile_list_empty">联系人账号为空</string>
+    <string name="title_activity_search_group">SearchGroupActivity</string>
+    <string name="title_activity_edit_configure">EditConfigureActivity</string>
+    <string name="edit_serverip">编辑服务器地址</string>
+    <string name="edit_token">编辑Token</string>
+    <string name="edit_appkey">编辑AppKey</string>
+    <string name="edit_group_name">编辑群组名称</string>
+    <string name="edit_group_notice">编辑群组公告</string>
+    <string name="edit_add_contacts">加朋友</string>
+    <string name="title_activity_login_setting">LoginSettingActivity</string>
+    <string name="title_activity_setting_persion_info">SettingPersionInfoActivity</string>
+    <string name="settings_male">男</string>
+    <string name="settings_female">女</string>
+    <string name="settings_birth">生日：</string>
+    <string name="str_group_permission_spinner">设置群组权限</string>
+    <string name="str_system_come_from" formatted="false">所属群组:%1$s</string>
+    <string name="str_system_message_type_apply">群组申请</string>
+    <string name="str_system_message_type_invite">群组邀请</string>
+    <string name="str_system_message_operation_result_refuse">已拒绝</string>
+    <string name="str_system_message_operation_result_through">已接受</string>
+    <string name="str_system_apply_reason" formatted="false">申请理由:%1$s</string>
+    <string name="str_group_id_fmt" formatted="false">群组id:%s</string>
+    <string name="app_copy_ok">已复制</string>
+    <string name="app_copy_menu">复制消息</string>
+    <string name="fmt_delcontactmsg_confirm_group">确定删除群的聊天记录吗？</string>
+    <string name="clear_msg_success">清除成功</string>
+    <string name="main_delete">删除该聊天</string>
+    <string name="menu_del">删除</string>
+    <string name="menu_mute_notify">设置免打扰</string>
+    <string name="menu_notify">取消免打扰</string>
+    <string name="input_mobile_error">请输入合法的手机号码</string>
+    <string name="personal_info">个人信息</string>
+    <string name="viewpager_indicator" formatted="false">%d/%d</string>
+    <string name="str_sear_group_id_hint">请输入群组id</string>
+    <string name="str_sear_group_name_hint">请输入群组名称</string>
+    <string name="chatting_empty_message_cant_be_sent">不能发送空白消息</string>
+    <string name="sendmsg_error_15032">您已经被禁言</string>
+    <string name="sendmsg_error_16072">您已不属于此群组成员</string>
+    <string name="sendmsg_error_170001">您发送的文本超过最大长度限制</string>
+    <string name="sendmsg_error_unknown">不支持该类型的发送</string>
+    
+    <string name="search_group">查询群组</string>
+    <string name="searcha_by_id_tip">按群组ID精确查询</string>
+    <string name="searcha_by_indistinct_name_tip">按群组名称模糊查询</string>
+    <string name="demo_current_version">当前版本(%s)</string>
+    <string name="new_update_version">有新版本发布啦！</string>
+    <string name="update_next">下次更新</string>
+    <string name="save_to_local">保存到手机</string>
+    <string name="save_img_waite_download">请稍候，图片正在加载中</string>
+    <string name="app_delete_tips">确认删除？</string>
+    <string name="app_test_message">"欢迎使用新版本IM，全新的通讯协议（http://www.youkes.com）[优分享浏览器]"</string>
+    <string name="conv_msg_sending">正在发送中</string>
+    <string name="edit_add_contact_chat">输入联系人</string>
+    <string name="invite_wating_replay">邀请成功，等待对方确认</string>
+    <string name="app_title_switch">切换账号</string>
+    <string name="regist_params_error">注册参数错误，请检查</string>
+    <string name="new_msg_mute_notify">已设置免打扰</string>
+    <string name="new_msg_notify">已取消免打扰</string>
+    <string name="room_my_displayname">我在本群的昵称</string>
+    <string name="room_edit_my_nick_tips">设置你在群里的昵称，这个昵称只会在这个群内显示</string>
+
+    <!-- 下拉刷新  end -->
+    <string name="drop_down_list_header_default_text">Click toUserId refresh&#8230;</string>
+    <string name="drop_down_list_header_pull_text">Drop Down toUserId refresh&#8230;</string>
+    <string name="drop_down_list_header_release_text">Release toUserId refresh&#8230;</string>
+    <string name="drop_down_list_header_loading_text">加载中&#8230;</string>
+    <string name="drop_down_list_footer_default_text"></string>
+    <string name="drop_down_list_footer_loading_text">加载中&#8230;</string>
+    <string name="drop_down_list_footer_no_more_text">无更多信息</string>
+    <string name="image_content">Image</string>
+    <string name="httpError">连接失败,请稍候再试</string>
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">释放立即刷新</string>
+    <string name="xlistview_header_hint_loading">正在刷新 </string>
+    <string name="xlistview_header_last_time">上次更新：</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+
+    <!-- browser -->
+    <string name="ApplicationName">优分享浏览器</string>
+    <string name="ApplicationNameUrl">优分享浏览器 - %s</string>
+    <string name="ApplicationDescription">使用优分享浏览器让你更好的使用互联网</string>
+    <string name="AboutActivity.Title">关于</string>
+    <string name="AboutActivity.VersionText">Version:</string>
+    <string name="AboutActivity.LicenseText">版权:</string>
+    <string name="AboutActivity.UrlTextValue">http://youkes.com</string>
+    <string name="AboutActivity.LicenseTextValue">GPL v3</string>
+    <string name="Main.MenuAddBookmark">添加书签</string>
+    <string name="Main.MenuShowBookmarks">书签</string>
+    <string name="Main.MenuShowHistory">历史</string>
+    <string name="Main.MenuShowDownloads">下载</string>
+    <string name="Main.MenuPreferences">配置</string>
+    <string name="Main.MenuOpen">打开</string>
+    <string name="Main.MenuOpenNewTab">打开新页</string>
+    <string name="Main.MenuDownload">下载</string>
+    <string name="Main.DownloadStartedMsg">下载开始</string>
+    <string name="Main.DownloadFinishedMsg">下载结束</string>
+    <string name="Main.DownloadErrorMsg">下载错误: %s</string>
+    <string name="Main.ToastTabSwitchMessage">页 %s</string>
+    <string name="Main.ToastTabSwitchFullMessage">页 %1$s: %2$s</string>
+    <string name="Main.VndErrorTitle">不能打开网址</string>
+    <string name="Main.VndErrorMessage">您没有应用程序支持这个网址: %s.</string>
+    <string name="BookmarksListActivity.Title">优分享浏览器浏览器 - 书签</string>
+    <string name="BookmarksListActivity.MenuSortMode">排序方式</string>
+    <string name="BookmarksListActivity.MenuAddBookmark">添加书签</string>
+    <string name="BookmarksListActivity.Empty">没有书签</string>
+    <string name="BookmarksListActivity.MenuOpenInTab">打开新页</string>
+    <string name="BookmarksListActivity.MenuEditBookmark">编辑书签</string>
+    <string name="BookmarksListActivity.MenuDeleteBookmark">删除书签</string>
+    <string name="BookmarksListActivity.AlphaSortMode">顺序</string>
+    <string name="BookmarksListActivity.RecentSortMode">最新</string>
+    <string name="EditBookmarkActivity.Title">编辑书签</string>
+    <string name="EditBookmarkActivity.TitleAdd">添加书签</string>
+    <string name="EditBookmarkActivity.TitleLabel">显示名称:</string>
+    <string name="EditBookmarkActivity.UrlLabel">地址:</string>
+    <string name="HistoryListActivity.Title">历史</string>
+    <string name="HistoryListActivity.MenuOpenInTab">打开新页</string>
+    <string name="HistoryListActivity.MenuDelete">删除</string>
+    <string name="DownloadListActivity.Title">优分享浏览器浏览器-下载</string>
+    <string name="DownloadListActivity.Empty">没有下载</string>
+    <string name="DownloadListActivity.Aborted">%s (取消)</string>
+    <string name="DownloadListActivity.Finished">%s (完成)</string>
+    <string name="AdBlockerWhiteListActivity.Title">优分享浏览器浏览器 - 广告阻止的百名单</string>
+    <string name="AdBlockerWhiteListActivity.Empty">白名单是空的.</string>
+    <string name="AdBlockerWhiteListActivity.AddMessage">添加至白名单</string>
+    <string name="AdBlockerWhiteListActivity.ClearMessage">清空白名单</string>
+    <string name="PreferencesActivity.GeneralSettingsCategoryTitle">通用设置</string>
+    <string name="PreferencesActivity.HomePagePreferenceTitle">主页设定</string>
+    <string name="PreferencesActivity.HomePagePreferenceSummary">定义你的默认主页</string>
+    <string name="PreferencesActivity.FullScreenPreferenceTitle">全屏幕</string>
+    <string name="PreferencesActivity.FullScreenPreferenceSummary">在全屏幕模式下显示 (需要重新启动程序).</string>
+    <string name="PreferencesActivity.ShowToastOnTabSwitchPreferenceTitle">显示警报在页切换时</string>
+    <string name="PreferencesActivity.ShowToastOnTabSwitchPreferenceSummary">如果选中, 在页切换时会有显示小警报.</string>
+    <string name="PreferencesActivity.BrowserSettingsCategoryTitle">浏览器设定</string>
+    <string name="PreferencesActivity.HistorySizePreferenceTitle">历史记录大小</string>
+    <string name="PreferencesActivity.HistorySizePreferenceSummary">每天历史记录大小</string>
+    <string name="PreferencesActivity.EnableJavascriptPreferenceTitle">启用JavaScript</string>
+    <string name="PreferencesActivity.EnableJavascriptPreferenceSummary">启用或禁用JavaScript.</string>
+    <string name="PreferencesActivity.LoadImagesPreferenceTitle">是否加载图像</string>
+    <string name="PreferencesActivity.LoadImagesPreferenceSummary">启用或禁用图像加载.</string>
+    <string name="PreferencesActivity.PrivacyPreferenceTitle">隐私设定</string>
+    <string name="PreferencesActivity.PrivacyPreferenceSummary">管理您的隐私设定.</string>
+    <string name="PreferencesActivity.EnableFormDataPreferenceTitle">保存表单数据</string>
+    <string name="PreferencesActivity.EnableFormDataPreferenceSummary">启用或禁用保存表单数据.</string>
+    <string name="PreferencesActivity.EnablePasswordsPreferenceTitle">保存密码</string>
+    <string name="PreferencesActivity.EnablePasswordsPreferenceSummary">启用或禁用密码保存.</string>
+    <string name="PreferencesActivity.EnableCookiesPreferenceTitle">允许cookie</string>
+    <string name="PreferencesActivity.EnableCookiesPreferenceSummary">启用或禁用Cookies.</string>
+    <string name="PreferencesActivity.PrivacyClearHistoryTitle">清空历史</string>
+    <string name="PreferencesActivity.PrivacyClearFormDataTitle">清空表单数据</string>
+    <string name="PreferencesActivity.PrivacyClearCacheTitle">清空缓存</string>
+    <string name="PreferencesActivity.PrivacyClearCookiesTitle">清空cookies</string>
+    <string name="PreferencesActivity.BarDurationPreferenceTitle">工具条显示时间</string>
+    <string name="PreferencesActivity.BarDurationPreferenceSummary">显示工具条的时间.</string>
+    <string name="PreferencesActivity.BarDuration1sec">1 秒</string>
+    <string name="PreferencesActivity.BarDuration2sec">2 秒</string>
+    <string name="PreferencesActivity.BarDuration3sec">3 秒</string>
+    <string name="PreferencesActivity.BarDuration4sec">4 秒</string>
+    <string name="PreferencesActivity.BarDuration5sec">5 秒</string>
+
+    <string-array name="BarDurationEntries">
+        <item>@string/PreferencesActivity.BarDuration1sec</item>
+        <item>@string/PreferencesActivity.BarDuration2sec</item>
+        <item>@string/PreferencesActivity.BarDuration3sec</item>
+        <item>@string/PreferencesActivity.BarDuration4sec</item>
+        <item>@string/PreferencesActivity.BarDuration5sec</item>
+    </string-array>
+    <string-array name="BarDurationValues">
+        <item>1000</item>
+        <item>2000</item>
+        <item>3000</item>
+        <item>4000</item>
+        <item>5000</item>
+    </string-array>
+
+    <string name="PreferencesActivity.BubblePositionPreferenceTitle">工具条图标</string>
+    <string name="PreferencesActivity.BubblePositionPreferenceSummary">工具条图标位置</string>
+    <string name="PreferencesActivity.BubbleRight">右</string>
+    <string name="PreferencesActivity.BubbleLeft">左</string>
+    <string name="PreferencesActivity.BubbleBoth">两边都有</string>
+
+    <string-array name="BubblePositionEntries">
+        <item>@string/PreferencesActivity.BubbleRight</item>
+        <item>@string/PreferencesActivity.BubbleLeft</item>
+        <item>@string/PreferencesActivity.BubbleBoth</item>
+    </string-array>
+    <string-array name="BubblePositionValues">
+        <item>right</item>
+        <item>left</item>
+        <item>both</item>
+    </string-array>
+
+    <string name="PreferencesActivity.AdBlockerSettingsCategoryTitle">广告阻止设定</string>
+    <string name="PreferencesActivity.EnableAdBlockerPreferenceTitle">启用广告阻止</string>
+    <string name="PreferencesActivity.EnableAdBlockerPreferenceSummary">必须启用JavaScript为使用广告阻止.</string>
+    <string name="PreferencesActivity.AdBlockerWhiteListPreferenceTitle">白名单</string>
+    <string name="PreferencesActivity.AdBlockerWhiteListPreferenceSummary">管理广告阻止白名单.</string>
+    <string name="Commons.Ok">确定</string>
+    <string name="Commons.Cancel">取消</string>
+    <string name="Commons.PleaseWait">请等待</string>
+    <string name="Commons.Yes">是</string>
+    <string name="Commons.No">否</string>
+    <string name="Commons.NoUndoMessage">此操作无法撤销。你希望继续吗？</string>
+    <string name="Commons.JavaScriptDialog">JavaScript对话框</string>
+    <string name="Commons.ClearHistory">清空历史记录</string>
+    <string name="Commons.ClearingHistory">正在清空历史记录&#8230;</string>
+    <string name="Commons.ClearFormData">清空表单数据</string>
+    <string name="Commons.ClearingFormData">正在清空表单数据&#8230;</string>
+    <string name="Commons.ClearCache">清空缓存</string>
+    <string name="Commons.ClearingCache">正在清空缓存&#8230;</string>
+    <string name="Commons.ClearCookies">清空Cookies</string>
+    <string name="Commons.ClearingCookies">正在清空缓存&#8230;</string>
+    <string name="Commons.SDCardErrorTitle">SD卡不能使用</string>
+    <string name="Commons.SDCardErrorNoSDMsg">找不到SD卡</string>
+    <string name="Commons.SDCardErrorSDUnavailable">SD卡不能使用</string>
+    <string name="Commons.Close">关闭</string>
+    <string name="DATE_FORMAT_ISO8601">yyyy-MM-dd\'T\'HH:mm:ss.SSS</string>
+
+    <!-- 0.3.1 -->
+    <string name="PreferencesActivity.AboutCategoryTitle">关于</string>
+    <string name="PreferencesActivity.AboutPreferenceTitle">关于</string>
+    <string name="PreferencesActivity.AboutPreferenceSummary">此应用程序的信息.</string>
+
+    <!-- 0.3.2 -->
+    <string name="BookmarksListActivity.MostUsedSortMode">最使用</string>
+    <string name="PreferencesActivity.DefaultZoomPreferenceTitle">默认缩放级别</string>
+    <string name="PreferencesActivity.DefaultZoomPreferenceSummary">设定默认缩放级别.</string>
+    <string name="PreferencesActivity.DefaultZoomClose">近</string>
+    <string name="PreferencesActivity.DefaultZoomMedium">远</string>
+    <string name="PreferencesActivity.DefaultZoomFar">非常远</string>
+
+    <string-array name="DefaultZoomEntries">
+        <item>@string/PreferencesActivity.DefaultZoomClose</item>
+        <item>@string/PreferencesActivity.DefaultZoomMedium</item>
+        <item>@string/PreferencesActivity.DefaultZoomFar</item>
+    </string-array>
+    <string-array name="DefaultZoomValues">
+        <item>CLOSE</item>
+        <item>MEDIUM</item>
+        <item>FAR</item>
+    </string-array>
+    <string name="hot_site">热门站点</string>
+    <string name="StartPage.Welcome">欢迎!</string>
+    <string name="StartPage.Bookmarks">使用最多的书签</string>
+    <string name="StartPage.History">最近历史记录</string>
+    <string name="ChangelogActivity.Title">更改日志</string>
+    <string name="PreferencesActivity.ChangelogPreferenceTitle">更改日志</string>
+    <string name="PreferencesActivity.ChangelogPreferenceSummary">此应用程序的更改日志.</string>
+    <string name="HomepagePreferenceActivity.Title">主页</string>
+    <string name="HomepagePreferenceActivity.Prompt">主页</string>
+    <string name="PreferencesActivity.HomepageStart">开始页</string>
+    <string name="PreferencesActivity.HomepageBlank">空白页</string>
+    <string name="PreferencesActivity.HomepageCustom">自定义页</string>
+
+    <string-array name="HomepageValues">
+        <item>@string/PreferencesActivity.HomepageStart</item>
+        <item>@string/PreferencesActivity.HomepageBlank</item>
+        <item>@string/PreferencesActivity.HomepageCustom</item>
+    </string-array>
+
+    <!-- 0.3.3 -->
+    <string name="Constants.SearchUrlGoogle">http://www.google.com/m?hl=en&amp;gl=us&amp;client=ms-null&amp;source=android-browser-key&amp;q=%s</string>
+    <string name="Constants.SearchUrlWikipedia">http://www.baidu.com/s?wd=%s</string>
+    <string name="PreferencesActivity.SearchUrlPreferenceTitle">搜索 URL</string>
+    <string name="PreferencesActivity.SearchUrlPreferenceSummary">自定义搜索URL</string>
+    <string name="SearchUrlPreferenceActivity.Title">搜索</string>
+    <string name="SearchUrlPreferenceActivity.Prompt">搜索</string>
+    <string name="PreferencesActivity.SearchUrlGoogle">谷歌</string>
+    <string name="PreferencesActivity.SearchUrlWikipedia">百度</string>
+    <string name="PreferencesActivity.SearchUrlCustom">自定义</string>
+
+    <string-array name="SearchUrlValues">
+        <item>@string/PreferencesActivity.SearchUrlGoogle</item>
+        <item>@string/PreferencesActivity.SearchUrlWikipedia</item>
+        <item>@string/PreferencesActivity.SearchUrlCustom</item>
+    </string-array>
+
+    <string name="StartPage.Search">搜索</string>
+    <string name="StartPage.SearchButton">搜</string>
+    <string name="PreferencesActivity.StartPageCustomizationPreferenceTitle">开始页自定义</string>
+    <string name="PreferencesActivity.StartPageCustomizationPreferenceSummary">自定义开始页.</string>
+    <string name="PreferencesActivity.StartPageEnableSearchPreferenceTitle">是否显示搜索栏</string>
+    <string name="PreferencesActivity.StartPageEnableSearchPreferenceSummary">如果选中，会有显示搜索栏.</string>
+    <string name="PreferencesActivity.StartPageEnableBookmarksPreferenceTitle">显示最常用书签</string>
+    <string name="PreferencesActivity.StartPageEnableBookmarksPreferenceSummary">如果选中，会有显示最使用书签.</string>
+    <string name="PreferencesActivity.StartPageEnableHistoryPreferenceTitle">显示最近历史</string>
+    <string name="PreferencesActivity.StartPageEnableHistoryPreferenceSummary">如果选中，会有显示最近历史.</string>
+    <string name="PreferencesActivity.StartPageBookmarksLimitPreferenceTitle">最使用书签的个数</string>
+    <string name="PreferencesActivity.StartPageBookmarksLimitPreferenceSummary">显示最使用书签的个数.</string>
+    <string name="PreferencesActivity.StartPageHistoryLimitPreferenceTitle">最近历史记录项的个数</string>
+    <string name="PreferencesActivity.StartPageHistoryLimitPreferenceSummary">显示最近历史记录项的个数.</string>
+    <string name="PreferencesActivity.UserAgentPreferenceTitle">用户代理</string>
+    <string name="PreferencesActivity.UserAgentPreferenceSummary">定义用户代理至使用.</string>
+    <string name="UserAgentPreferenceActivity.Title">用户代理</string>
+    <string name="UserAgentPreferenceActivity.Prompt">用户代理</string>
+    <string name="PreferencesActivity.UserAgentDefault">Android默认</string>
+    <string name="PreferencesActivity.UserAgentDesktop">桌面级</string>
+    <string name="PreferencesActivity.UserAgentCustom">自定义</string>
+
+    <string-array name="UserAgentValues">
+        <item>@string/PreferencesActivity.UserAgentDefault</item>
+        <item>@string/PreferencesActivity.UserAgentDesktop</item>
+        <item>@string/PreferencesActivity.UserAgentCustom</item>
+    </string-array>
+
+    <!-- 0.3.4 -->
+    <string name="Main.MenuCopyLinkUrl">复制链接地址</string>
+    <string name="Main.MenuViewImage">显示图片</string>
+    <string name="Main.MenuCopyImageUrl">复制图片地址</string>
+    <string name="Main.MenuDownloadImage">下载图片</string>
+    <string name="Main.MenuSendEmail">发送电子邮件</string>
+    <string name="Main.MenuCopyEmailUrl">复制邮件地址</string>
+    <string name="Commons.UrlCopyToastMessage">地址已经复制到粘贴板</string>
+    <string name="DownloadNotification.DownloadStart">下载开始.</string>
+    <string name="DownloadNotification.DownloadInProgress">正在下载中.</string>
+    <string name="DownloadNotification.DownloadComplete">下载完成.</string>
+    <string name="DownloadNotification.DownloadCanceled">下载已经取消.</string>
+    <string name="BookmarksHistoryActivity.MenuCopyLinkUrl">复制URL</string>
+    <string name="PreferencesActivity.ClearCacheOnExitPreferenceTitle">清空缓存</string>
+    <string name="PreferencesActivity.ClearCacheOnExitPreferenceSummary">如果选中, 当应用程序退出浏览器的缓存会清空.</string>
+    <string name="PreferencesActivity.UIPreferenceTitle">用户界面设定</string>
+    <string name="PreferencesActivity.UIPreferenceSummary">自定义化用户界面的设定.</string>
+    <string name="Main.MenuExit">退出</string>
+    <string name="PreferencesActivity.RestartDialogTitle">需要重启</string>
+    <string name="PreferencesActivity.RestartDialogMessage">对效果改变需要重新启动程序。是否马上重启?</string>
+
+    <!-- 0.3.5 -->
+    <string name="PreferencesActivity.EnablePluginsTitle">启用插件</string>
+    <string name="PreferencesActivity.PluginsAlwaysOff">关闭</string>
+    <string name="PreferencesActivity.PluginsOnDemand">一经请求</string>
+    <string name="PreferencesActivity.PluginsAlwaysOn">打开</string>
+
+    <string-array name="PluginsEntries">
+        <item>@string/PreferencesActivity.PluginsAlwaysOff</item>
+        <item>@string/PreferencesActivity.PluginsOnDemand</item>
+        <item>@string/PreferencesActivity.PluginsAlwaysOn</item>
+    </string-array>
+    <string-array name="PluginsValues">
+        <item>OFF</item>
+        <item>ON_DEMAND</item>
+        <item>ON</item>
+    </string-array>
+
+    <string name="Commons.Continue">继续</string>
+    <string name="Commons.SslWarning">安全警告</string>
+    <string name="Commons.SslWarningsHeader">网站的安全证书存在问题</string>
+    <string name="Commons.SslUntrusted">安全证书没有可信任发行者.</string>
+    <string name="Commons.SslIDMismatch">站点名和证书不匹配</string>
+    <string name="Commons.SslExpired">证书已经过期</string>
+    <string name="Commons.SslNotYetValid">证书没有验证</string>
+    <string name="MobileViewListActivity.Title">优分享浏览器浏览器-通过网关访问的网站列表</string>
+    <string name="MobileViewListActivity.ListEmpty">列表为空</string>
+    <string name="MobileViewListActivity.AddMessage">添加一个网站</string>
+    <string name="MobileViewListActivity.ClearMessage">清空所有站点</string>
+    <string name="PreferencesActivity.MobileViewCategoryTitle">移动视图设定</string>
+    <string name="PreferencesActivity.MobileViewListPreferenceTitle">管理网站</string>
+    <string name="PreferencesActivity.MobileViewListPreferenceSummary">在此列表中的网站将会加载使用谷歌移动视图 (GWT).</string>
+    <string name="Commons.Add">增加</string>
+    <string name="Commons.Clear">清空</string>
+    <string name="Commons.Delete">删除</string>
+
+    <!-- 0.3.6 -->
+    <string name="PreferencesActivity.VolumeKeysBehaviourPreferenceTitle">音量键行为</string>
+    <string name="PreferencesActivity.VolumeKeysBehaviourPreferenceSummary">选择音量键的功能.</string>
+    <string name="PreferencesActivity.VolumeKeysActionDefault">默认行为</string>
+    <string name="PreferencesActivity.VolumeKeysActionZoom">放大</string>
+    <string name="PreferencesActivity.VolumeKeysActionScroll">向上滚动／向下滚动</string>
+    <string name="PreferencesActivity.VolumeKeysActionSwitchTabs">切换选项卡</string>
+    <string name="PreferencesActivity.VolumeKeysActionHistory">前进/后退</string>
+
+    <string-array name="VolumeKeysActionEntries">
+        <item>@string/PreferencesActivity.VolumeKeysActionDefault</item>
+        <item>@string/PreferencesActivity.VolumeKeysActionZoom</item>
+        <item>@string/PreferencesActivity.VolumeKeysActionScroll</item>
+        <item>@string/PreferencesActivity.VolumeKeysActionSwitchTabs</item>
+        <item>@string/PreferencesActivity.VolumeKeysActionHistory</item>
+    </string-array>
+    <string-array name="VolumeKeysActionValues">
+        <item>DEFAULT</item>
+        <item>ZOOM</item>
+        <item>SCROLL</item>
+        <item>SWITCH_TABS</item>
+        <item>HISTORY</item>
+    </string-array>
+
+    <!-- 0.3.7 -->
+    <string name="Main.ShareChooserTitle">通过共享</string>
+    <string name="Main.MenuShareLinkUrl">共享链接</string>
+    <string name="Main.MenuShareImageUrl">共享图像</string>
+    <string name="Main.MenuShareEmailUrl">共享电子邮件</string>
+
+    <!-- 0.3.8 -->
+    <string name="PreferencesActivity.HideTitleBarPreferenceTitle">隐藏标题栏</string>
+    <string name="PreferencesActivity.HideTitleBarPreferenceSummary">如果选中，窗口标题栏将不会显示（需要重新启动应用程序）.</string>
+    <string name="PreferencesActivity.UseWideViewPortPreferenceTitle">使用宽视区</string>
+    <string name="PreferencesActivity.UseWideViewPortPreferenceSummary">如果选中，浏览器将使用视区类似于桌面浏览器.</string>
+    <string name="PreferencesActivity.LoadWithOverviewPreferenceTitle">加载网页的概述</string>
+    <string name="PreferencesActivity.LoadWithOverviewPreferenceSummary">如果选中，页面将加载放大对显示网页的概述.</string>
+    <string name="PreferencesActivity.SwitchTabsMethodPreferenceTitle">切换选项卡功能</string>
+    <string name="PreferencesActivity.SwitchTabsMethodPreferenceSummary">定义如何可以打开的选项卡之间切换.</string>
+    <string name="PreferencesActivity.SwitchTabButtons">按钮</string>
+    <string name="PreferencesActivity.SwitchTabFling">滑动</string>
+    <string name="PreferencesActivity.SwitchTabBoth">两边都有</string>
+
+    <string-array name="SwitchTabsMethodEntries">
+        <item>@string/PreferencesActivity.SwitchTabButtons</item>
+        <item>@string/PreferencesActivity.SwitchTabFling</item>
+        <item>@string/PreferencesActivity.SwitchTabBoth</item>
+    </string-array>
+    <string-array name="SwitchTabsMethodValues">
+        <item>buttons</item>
+        <item>fling</item>
+        <item>both</item>
+    </string-array>
+
+    <!-- 0.3.9 -->
+    <string name="HistoryListActivity.Today">今天</string>
+    <string name="HistoryListActivity.Yesterday">昨天</string>
+    <string name="HistoryListActivity.LastSevenDays">最近7天</string>
+    <string name="HistoryListActivity.LastMonth">上月</string>
+    <string name="HistoryListActivity.Older">更旧</string>
+    <string name="QuickAction.Home">主页</string>
+    <string name="QuickAction.Share">共享</string>
+    <string name="QuickAction.SelectText">选择文本</string>
+    <string name="QuickAction.MobileView">移动视图</string>
+    <string name="AboutActivity.OtherLicenseText">此应用程序包括代码从GreenDroid项目 (https://github.com/cyrilmottier/GreenDroid)，和从Shaman项目 (https://github.com/emergentdotorg/shaman)，两者都领有根据的Apache许可证，版本2.</string>
+
+    <!-- 0.4.0 -->
+    <string name="PreferencesActivity.WeavePreferenceTitle">Firefox书签同步</string>
+    <string name="PreferencesActivity.WeavePreferenceSummary">管理书签同步的设置与Firefox同步.</string>
+    <string name="PreferencesActivity.UseWeavePreferenceTitle">使用Firefox同步</string>
+    <string name="PreferencesActivity.UseWeavePreferenceSummary">如果选中，您可以从Firefox同步检索您的书签.</string>
+    <string name="PreferencesActivity.WeaveServerPreferenceTitle">服务器</string>
+    <string name="PreferencesActivity.WeaveServerPreferenceSummary">设定Firefox同步服务器.</string>
+    <string name="PreferencesActivity.WeaveUsernameTitle">用户名</string>
+    <string name="PreferencesActivity.WeaveUsernameSummary">请输入您的Firefox同步用户名.</string>
+    <string name="PreferencesActivity.WeavePasswordTitle">密码</string>
+    <string name="PreferencesActivity.WeavePasswordSummary">请输入您的Firefox同步密码.</string>
+    <string name="PreferencesActivity.WeaveKeyTitle">密钥</string>
+    <string name="PreferencesActivity.WeaveKeySummary">请输入您的Firefox同步密钥.</string>
+    <string name="WeaveBookmarksListActivity.Title">Firefox书签</string>
+    <string name="WeaveBookmarksListActivity.MenuSync">同步</string>
+    <string name="WeaveBookmarksListActivity.MenuClear">清空</string>
+    <string name="WeaveBookmarksListActivity.WeaveRootFolder">定位</string>
+    <string name="WeaveBookmarksListActivity.EmptyText">Firefox书签没有同步。设置您的账户信息和同步.</string>
+    <string name="WeaveBookmarksListActivity.EmptyFolderText">没有书签在这个文件.</string>
+    <string name="WeaveBookmarksListActivity.SetupButton">设置</string>
+    <string name="WeaveBookmarksListActivity.SyncButton">同步</string>
+    <string name="WeaveSync.SyncTitle">同步</string>
+    <string name="WeaveSync.Connecting">正在连接服务器&#8230;</string>
+    <string name="WeaveSync.GettingData">正在获得数据&#8230;</string>
+    <string name="WeaveSync.ReadingData">正在读去数据: %1$s / %2$s</string>
+    <string name="WeaveSync.WrittingData">正在写入数据&#8230;</string>
+    <string name="Errors.WeaveSyncFailedTitle">同步失败.</string>
+    <string name="Errors.WeaveSyncFailedMessage">同步失败: %s</string>
+    <string name="Errors.WeaveAuthFailedMessage">无效的身份验证凭据。请检查您的设置.</string>
+    <string name="WeaveServerPreferenceActivity.Prompt">服务器</string>
+    <string name="WeaveServerPreferenceActivity.Title">服务器</string>
+    <string name="WeaveServerPreferenceActivity.DefaultServer">Firefox同步服务器</string>
+    <string name="WeaveServerPreferenceActivity.CustomServer">自定义服务器</string>
+
+    <string-array name="WeaveServerValues">
+        <item>@string/WeaveServerPreferenceActivity.DefaultServer</item>
+        <item>@string/WeaveServerPreferenceActivity.CustomServer</item>
+    </string-array>
+
+    <string name="Main.FileChooserPrompt">选择要上载的文件</string>
+    <string name="Commons.HistoryBookmarksExportSDCardConfirmation">出口历史和书签</string>
+    <string name="Commons.HistoryBookmarksExportSDCardDoneTitle">完成出口</string>
+    <string name="Commons.HistoryBookmarksExportSDCardDoneMessage">您的历史和书签保存到 %s.</string>
+    <string name="Commons.HistoryBookmarksExportSDCardFailedTitle">失败出口</string>
+    <string name="Commons.HistoryBookmarksFailedMessage">错误消息: %s.</string>
+    <string name="Commons.HistoryBookmarksImportSDCardFailedTitle">失败进口</string>
+    <string name="Commons.OperationCanBeLongMessage">此操作可能需要一些时间。你希望继续吗？</string>
+    <string name="PreferencesActivity.ToolsHistoryBookmarksPreferenceTitle">管理书签和历史</string>
+    <string name="PreferencesActivity.ToolsHistoryBookmarksPreferenceSummary">进口，出口，清空历史和书签.</string>
+    <string name="PreferencesActivity.ExportHistoryBookmarksPreferenceTitle">出口书签和历史</string>
+    <string name="PreferencesActivity.ExportHistoryBookmarksPreferenceSummary">出口书签和历史至SD卡.</string>
+    <string name="PreferencesActivity.ImportHistoryBookmarksPreferenceTitle">进口书签和历史</string>
+    <string name="PreferencesActivity.ImportHistoryBookmarksPreferenceSummary">进口书签和历史从SD卡.</string>
+    <string name="PreferencesActivity.PrivacyClearHistoryBookmarksTitle">清空历史和书签</string>
+    <string name="PreferencesActivity.SummaryCannotBeUndone">请谨慎使用，此操作无法撤销.</string>
+    <string name="Commons.ClearingHistoryBookmarks">正在清空历史和书签&#8230;</string>
+    <string name="Commons.ClearHistoryBookmarks">清空历史和书签</string>
+    <string name="Commons.Bookmarks">书签</string>
+    <string name="Commons.History">历史</string>
+    <string name="Commons.All">所有</string>
+    <string name="Commons.ExportingHistoryBookmarks">正在出口历史和书签&#8230;</string>
+    <string name="Commons.ImportingHistoryBookmarks">正在进口历史和书签&#8230;</string>
+    <string name="Commons.ImportHistoryBookmarksSource">选择进口源</string>
+    <string name="Commons.ClearingBookmarks">正在清空书签中&#8230;</string>
+    <string name="DownloadListActivity.RemoveCompletedDownloads">删除已完成的下载</string>
+    <string name="QuickAction.Find">页面上找到</string>
+    <string name="SearchDialog.Hint">页面上找到</string>
+
+    <!-- 0.4.2 -->
+    <string name="PreferencesActivity.AdvancedCategoryTitle">高级</string>
+    <string name="PreferencesActivity.BookmarksDatabaseTitle">书签存储</string>
+    <string name="PreferencesActivity.BookmarksDatabaseSummary">选择书签存储的方式.</string>
+    <string name="PreferencesActivity.BookmarksDatabaseStock">Android</string>
+    <string name="PreferencesActivity.BookmarksDatabaseInternal">内部</string>
+
+    <string-array name="BookmarksDatabaseEntries">
+        <item>@string/PreferencesActivity.BookmarksDatabaseStock</item>
+        <item>@string/PreferencesActivity.BookmarksDatabaseInternal</item>
+    </string-array>
+    <string-array name="BookmarksDatabaseValues">
+        <item>STOCK</item>
+        <item>INTERNAL</item>
+    </string-array>
+
+    <string name="HistoryListActivity.BookmarkAdded">添加到书签.</string>
+    <string name="HistoryListActivity.BookmarkRemoved">从书签中删除.</string>
+    <string name="HttpAuthenticationDialog.DialogTitle">登录到 %1$s - %2$s</string>
+    <string name="HttpAuthenticationDialog.UserName">姓名</string>
+    <string name="HttpAuthenticationDialog.Password">密码</string>
+    <string name="Commons.Proceed">继续</string>
+    <string name="PreferencesActivity.EnableProxySettings">启用系统代理</string>
+    <string name="PreferencesActivity.EnableProxySettingsSummary">启用或禁用支持的系统代理设置.</string>
+    <string name="ProxySettings.EnablingProxySettings">正在启用代理设置&#8230;</string>
+    <string name="ProxySettings.ErrorProxySettingsNotValid">无效系统代理设置.</string>
+    <string name="ProxySettings.ErrorProxyServerNotReachable">代理服务器不能访问.</string>
+    <string name="ProxySettings.ErrorProxyInternetNotReachable">不能访问网络通过此代理服务器.</string>
+    <string name="ProxySettings.ProxySettingsEnabled">成功启用了代理设置.</string>
+    <string name="AboutActivity.ContributorsText">优分享浏览器浏览器贡献者</string>
+    <string name="PreferencesActivity.EnableRestoreLastPagePreferenceTitle">恢复选项卡</string>
+    <string name="PreferencesActivity.EnableRestoreLastPagePreferenceSummary">如果选中，选项卡将会恢复如果可用.</string>
+
+    <!-- 0.4.3 -->
+    <string name="VideoLoading">加载视频\u2026</string>
+
+
+    <string name="drawer_open">打开导航抽屉</string>
+    <string name="drawer_close">关闭导航抽屉</string>
+    <string name="action_websearch">网页搜索</string>
+    <string name="action_refresh">刷新页面</string>
+    <string name="action_new_tab">新建标签</string>
+    <string name="action_share">分享页面</string>
+    <string name="action_share_pic">分享图片</string>
+
+    <string name="action_history">历史记录</string>
+    <string name="action_hotsite">热门站点</string>
+    <string name="action_bookmarks">书签列表</string>
+    <string name="action_add_bookmark">添加书签</string>
+    <string name="action_copy">复制链接</string>
+    <string name="action_forward">前进</string>
+    <string name="google">Google</string>
+    <string name="settings">设置</string>
+    <string name="less_than">\u003c</string>
+    <string name="big_than">\u003e</string>
+    <string name="plus">+</string>
+    <string name="multiply">×</string>
+
+    <string name="elip">···</string>
+
+    <string name="location">允许站点访问地理位置</string>
+    <string name="password">保存密码</string>
+    <!-- <string name="keep_last_tab">不关闭最后一个标签</string> -->
+    <string name="agent">User Agent</string>
+    <string name="history">历史</string>
+    <string name="favorite">收藏</string>
+    <string name="history_bookmark">历史/书签</string>
+    <string name="history_view">历史记录</string>
+
+    <string name="email">邮件开发者</string>
+    <string name="flash">启用 Adobe Flash</string>
+    <string name="mobile">作为移动设备访问</string>
+    <string name="desk">作为桌面设备访问</string>
+    <string name="custom">自定义 User Agent</string>
+    <string name="home">设置首页</string>
+    <string name="search_page">搜索页</string>
+    <string name="settingshelp">设置仅将应用于新标签页</string>
+    <string name="fullscreen">启用全屏模式</string>
+    <string name="fullscreen_cancel">取消</string>
+    <string name="menu_screenner">目录筛选</string>
+    <string name="tags_screenner">标签筛选</string>
+    <string name="java">启用 JavaScript</string>
+    <string name="saveTab">恢复丢失标签</string>
+    <string name="settings_title">应用设置</string>
+    <string name="download_dir">下载目录</string>
+    <string name="settings_advanced">高级设置</string>
+    <string name="source">源码</string>
+    <string name="license">许可</string>
+    <string name="github">youkes.com</string>
+    <string name="apache">Apache License 2.0</string>
+    <string name="title_activity_new_settings">新设置</string>
+    <string name="app_settings">应用设置</string>
+    <string name="version">当前版本</string>
+    <string name="cache">退出时清理缓存</string>
+    <string name="reflow">启用文本重排</string>
+    <string name="block">屏蔽网页图像</string>
+    <string name="window">允许站点打开新窗口</string>
+    <string name="cookies">启用 Cookies</string>
+    <string name="importbookmarks">从浏览器中导入书签</string>
+    <string name="size">页面文本尺寸</string>
+    <string name="recommended">（推荐）</string>
+    <string name="recent_account">帐号</string>
+    <string name="check_recording">请检查录音权限是否被禁止</string>
+
+    <string name="search_engine">搜索引擎</string>
+    <string name="search_hint">搜索</string>
+    <string name="wideViewPort">使用宽视图</string>
+    <string name="overViewMode">使用概览模式载入页面</string>
+    <string name="restore">启动时恢复丢失页面</string>
+    <string name="stock_browser_unavailable">（尚未检测到已支持原生浏览器）</string>
+    <string name="stock_browser_available">（已检测到受支持的原生浏览器）</string>
+    <string name="fullScreenOption">浏览时隐藏状态栏</string>
+    <string name="clear_cookies">清除浏览器 Cookies</string>
+    <string name="dialog_image">您希望对此图片进行什么操作？</string>
+    <string name="action_download">下载</string>
+    <string name="action_open">打开</string>
+    <string name="dialog_link">您希望对此链接进行什么操作？</string>
+    <string name="dialog_title_share">分享此页面</string>
+    <string name="dialog_bookmark">请问您要如何处理此书签？</string>
+    <string name="action_delete">删除</string>
+    <string name="action_blank">空白页</string>
+    <string name="agent_default">默认 UA</string>
+    <string name="agent_desktop">桌面访问</string>
+    <string name="agent_mobile">移动设备</string>
+    <string name="agent_custom">自定义 UA</string>
+    <string name="title_search_engine">搜索引擎</string>
+    <string name="action_ok">确认</string>
+    <string name="dialog_download">您是否需要下载此文件？</string>
+    <string name="action_cancel">取消</string>
+    <string name="title_warning">警告</string>
+    <string name="dialog_adobe_dead">"非常抱歉，Google 对此做了一些更改导致 Adobe Flash 无法支持 Android 4.4 以及更高版本。"</string>
+    <string name="dialog_adobe_not_installed">"未检测到您的设备中安装了 Adobe Flash Player，请先安装 Adobe  Flash Player 后再启用此选项。"</string>
+    <string name="dialog_adobe_unsupported">Adobe Flash 无法正常支持 Android 4.2 以及更高版本并且可能导致浏览器崩溃，若您启用后出现浏览器崩溃的问题请勿对此问题进行反馈。</string>
+    <string name="title_user_agent">User Agent</string>
+    <string name="title_download_location">下载目录</string>
+    <string name="title_custom_homepage">自定义主页</string>
+    <string name="action_webpage">网页</string>
+    <string name="dialog_reflow_warning">"非常抱歉，Google 对此做了一些更改导致文本重拍无法支持 Android 4.4 以及更高版本。"</string>
+    <string name="title_clear_history">清除历史记录</string>
+    <string name="title_clear_cookies">清除 Cookies</string>
+    <string name="dialog_history">您是否确认清除所有浏览器历史记录？</string>
+    <string name="dialog_cookies">您是否确认清除所有浏览器历史记录 Cookies？</string>
+    <string name="action_yes">确认</string>
+    <string name="action_no">取消</string>
+    <string name="title_text_size">文本大小</string>
+    <string name="size_largest">最大</string>
+    <string name="size_large">较大</string>
+    <string name="size_normal">普通</string>
+    <string name="size_small">较小</string>
+    <string name="size_smallest">最小</string>
+    <string name="title_error">错误</string>
+    <string name="dialog_import_error">暂未检测到任何可导入书签的浏览器</string>
+    <string name="hint_title">标题</string>
+    <string name="hint_url">URL</string>
+    <string name="title_edit_bookmark">编辑书签</string>
+    <string name="action_edit">编辑</string>
+    <string name="action_edit_top">置顶</string>
+    <string name="action_incognito">新建隐身标签</string>
+
+    <string name="action_homepage">搜索页</string>
+    <string name="action_searchpage">搜索页</string>
+    <string name="action_back">返回</string>
+    <string name="action_find">页内搜索</string>
+    <string name="download_pending">正在开始下载…</string>
+    <string name="cannot_download">仅可下载以 \"http\" 或 \"https\" 开头的链接地址</string>
+    <string name="download_no_sdcard_dlg_title">未发现 SDCard</string>
+    <string name="download_no_sdcard_dlg_msg">为正常下载此文件需要 USB 存储设备。</string>
+    <string name="download_sdcard_busy_dlg_title">USB 存储不可用</string>
+    <string name="download_sdcard_busy_dlg_msg">USB 存储设备目前正忙，为确保正常下载此文件请在通知栏中确认关闭 USB 大容量存储。</string>
+    <string name="incognito_cookies">在隐身模式中启用 Cookies</string>
+    <string name="title_flash">Adobe Flash</string>
+    <string name="action_manual">手工</string>
+    <string name="action_auto">自动</string>
+    <string name="action_follow_me">联系我</string>
+    <string name="url_twitter">twitter.com/ACRDevelopment</string>
+    <string name="clear_cache">清除缓存</string>
+    <string name="message_cache_cleared">缓存已清除</string>
+    <string name="message_import">书签导入成功</string>
+    <string name="message_clear_history">历史已清除</string>
+    <string name="message_cookies_cleared">Cookies 已清除</string>
+    <string name="max_tabs">达到最大标签数</string>
+    <string name="message_text_copied">文本已复制到剪贴板</string>
+    <string name="message_link_copied">链接已复制到剪贴板</string>
+    <string name="custom_url">自定义 URL</string>
+    <string name="message_blocked_local">本地文件已被阻止加载</string>
+    <string name="licenses">开源许可</string>
+    <string name="suggestion">搜索目标</string>
+    <string name="block_ads">拦截广告</string>
+    <string name="message_untrusted_certificate">该网站的证书不被信任。是否仍要继续？</string>
+    <string name="title_form_resubmission">重新提交表单</string>
+    <string name="message_form_resubmission">你想重新发送数据吗？</string>
+    <string name="message_location">\n你想使用你的位置吗？</string>
+    <string name="action_allow">允许</string>
+    <string name="action_dont_allow">不允许</string>
+    <string name="title_sign_in">登录</string>
+    <string name="hint_username">用户名</string>
+    <string name="hint_password">密码</string>
+    <string name="google_suggestions">搜索建议</string>
+    <string name="powered_by_google">由 Google 提供支持</string>
+    <string name="title_adblock">广告拦截</string>
+    <string name="message_adblock">广告拦截现在只能在付费版的浏览器中使用。</string>
+    <string name="enable_orbot">启用 Orbot</string>
+    <string name="use_tor_prompt">看起来你已经安装了 Orbot. 你想要使用 Tor 吗？</string>
+    <string name="install_orbot">请安装 Orbot 以便通过 Tor 全使用代理。</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="delete_text_node">长按有更多操作</string>
+    <string name="no_more_back">不能再撤消啦</string>
+    <string name="no_more_forward">不能再重做啦</string>
+    <string name="clear_cookies_exit">退出时清除 cookies</string>
+    <string name="clear_history_exit">退出时清除历史</string>
+    <string name="folder_default">默认</string>
+    <string name="folder_custom">自定义</string>
+    <string name="untitled">未标题的</string>
+    <string name="mpl_license">Mozilla Public License v. 2.0</string>
+    <string name="freeware">免费软件</string>
+    <string name="android_open_source_project">Android 开源项目</string>
+    <string name="hphosts_ad_server_list">hpHosts 广告服务器列表</string>
+    <string name="deleted_tab">重新打开老标签</string>
+    <string name="detail">详情</string>
+    <string name="rendering_mode">渲染模式</string>
+    <string name="name_inverted">反转</string>
+    <string name="name_too_short">名称太短</string>
+    <string name="name_grayscale">灰度</string>
+    <string name="name_inverted_grayscale">反转灰度</string>
+    <string name="name_normal">普通</string>
+    <string name="sync_history">与 Google 同步历史</string>
+    <string name="title_file_chooser">文件选择器</string>
+    <string name="library_netcipher">NetCipher</string>
+    <string name="license_gnu">GNU Lesser General Public License</string>
+    <string name="export_bookmarks">导出书签到备份文件</string>
+    <string name="import_backup">从备份文件导入书签</string>
+    <string name="bookmark_export_path">书签已导出到</string>
+    <string name="bookmark_settings">书签设置</string>
+    <string name="bookmark">书签</string>
+    <string name="bookmark_added">书签已被添加</string>
+    <string name="import_bookmark_error">无法从文件导入书签</string>
+    <string name="title_chooser">选择一个文件</string>
+    <string name="available_lollipop">此功能仅在 Android 5.0+ 版本中可用</string>
+    <string name="change_after_restart">主题变更将在你重启浏览器后生效。</string>
+    <string name="close_all_tabs">关闭所有标签</string>
+    <string name="close_other_tabs">关闭其它标签</string>
+    <string name="close_tab">关闭标签</string>
+    <string name="clear_tab">清空标签</string>
+
+    <string name="color_mode">启用色彩模式</string>
+    <string name="dark_theme">使用深色主题</string>
+    <string name="invert_color">反转颜色</string>
+    <string name="jsoup">jsoup: Java HTML 解析器</string>
+    <string name="loading_fail">加载失败，请重试</string>
+    <string name="loading_failed">无法从页面上加载任何东西。</string>
+    <string name="mit_license">MIT 许可</string>
+    <string name="reading_mode">阅读模式</string>
+    <string name="settings_about">关于</string>
+    <string name="settings_about_explain">关于版本，作者和许可的详细信息。</string>
+    <string name="settings_display">显示设置</string>
+    <string name="settings_general">常规设置</string>
+    <string-array name="url_content_array">
+        <item >域 (默认)</item>
+        <item >URL</item>
+        <item >标题</item>
+    </string-array>
+    <string name="settings_privacy">隐私设置</string>
+    <string name="tabs">标签</string>
+    <string name="third_party">阻止第三方 Cookies</string>
+    <string name="url_contents">URL 框内容</string>
+
+
+
+
+
+    <string name="http_proxy">HTTP proxy</string>
+    <string-array name="proxy_choices_array">
+        <item>None</item>
+        <item>Orbot</item>
+        <item>I2P</item>
+        <item>Manual</item>
+    </string-array>
+    <string name="manual_proxy">Manual proxy</string>
+    <string name="host">Host:</string>
+    <string name="port">Port:</string>
+
+    <string name="use_i2p_prompt">It looks like you have I2P installed. Do you want toUserId use I2P?</string>
+
+    <string name="i2p_not_running">I2P is not running.</string>
+    <string name="i2p_tunnels_not_ready">I2P tunnels are not ready yet.</string>
+
+
+    <string name="subscribe_my_category">我的频道</string>
+    <string name="subscribe_more_category">更多频道</string>
+    <string name="subscribe_manager_category_info">单击增删频道</string>
+    <string name="subscribe_manager_category_info_2">单击增删频道，长按拖拽排序</string>
+
+
+    <string name="no_network">没有网络链接，请链接网络</string>
+
+    <string name="chat_connect_close_error">聊天服务器连接已断开</string>
+    <string name="chat_not_connected">未链接到聊天服务器</string>
+    <string name="chat_not_authenticated">未登录到聊天服务器</string>
+    <string name="chat_reconnect_fail">连接到聊天服务器失败</string>
+    <string name="chat_reconnect_in">%d秒后重新连接到聊天服务器</string>
+    <string name="chat_reconnect_success">连接到聊天服务器成功</string>
+    <string name="regist_ip_in">你的IP最近注册过，请等待%d秒</string>
+    <!-- Content descriptions -->
+    <string name="descr_image">Image</string>
+    <string name="title_file">本地视频</string>
+    <string name="title_online">在线视频</string>
+    <string name="init_decoders">正在进行第一次解压解码包...</string>
+    <string name="loadinfo">载入中，请稍后...</string>
+    <string name="file_oper">文件操作</string>
+    <string name="file_rename">重命名</string>
+    <string name="file_rename_failed">重命名失败</string>
+    <string name="file_rename_exists">文件已存在</string>
+    <string name="file_delete">删除</string>
+    <string name="file_delete_confirm">确定删除 (%s) ？</string>
+    <string name="video_layout_loading">正在缓冲...</string>
+    <string name="vitamio_theme_app_name">VPlayer codec</string>
+    <string name="VideoView_error_title">Cannot play video</string>
+    <string name="VideoView_error_text_invalid_progressive_playback">Sorry, this video is not valid for streaming toUserId
+		this device.</string>
+    <string name="VideoView_error_text_unknown">对不起,这个视频不能播放。</string>
+    <string name="VideoView_error_button">好的</string>
+    <string name="mediacontroller_play_pause">Play/Pause</string>
+
+
+</resources>

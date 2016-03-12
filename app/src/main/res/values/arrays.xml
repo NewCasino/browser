@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emoji_code_file">
+        <item>e415</item>
+        <item>e056</item>
+        <item>e057</item>
+        <item>e414</item>
+        <item>e405</item>
+        <item>e106</item>
+        <item>e418</item>
+        <item>e417</item>
+        <item>e40d</item>
+        <item>e404</item>
+        <item>e40a</item>
+        <item>e105</item>
+        <item>e409</item>
+        <item>e40e</item>
+        <item>e402</item>
+        <item>e108</item>
+        <item>e403</item>
+        <item>e058</item>
+        <item>e407</item>
+        <item>e401</item>
+        <item>e40f</item>
+        <item>e40b</item>
+        <item>e406</item>
+        <item>e413</item>
+        <item>e411</item>
+        <item>e412</item>
+        <item>e410</item>
+        <item>e107</item>
+        <item>e059</item>
+        <item>e416</item>
+        <item>e408</item>
+        <item>e40c</item>
+        <item>e11a</item>
+        <item>e10c</item>
+        <item>e022</item>
+        <item>e023</item>
+        <item>e329</item>
+        <item>e32e</item>
+        <item>e335</item>
+        <item>e337</item>
+        <item>e336</item>
+        <item>e13c</item>
+        <item>e331</item>
+        <item>e03e</item>
+        <item>e11d</item>
+        <item>e05a</item>
+        <item>e00e</item>
+        <item>e421</item>
+        <item>e00d</item>
+        <item>e011</item>
+        <item>e22e</item>
+        <item>e22f</item>
+        <item>e231</item>
+        <item>e230</item>
+        <item>e00f</item>
+        <item>e14c</item>
+        <item>e111</item>
+        <item>e425</item>
+        <item>e001</item>
+        <item>e002</item>
+        <item>e005</item>
+        <item>e004</item>
+        <item>e04e</item>
+        <item>e11c</item>
+        <item>e003</item>
+        <item>e04a</item>
+        <item>e04b</item>
+        <item>e049</item>
+        <item>e048</item>
+        <item>e04c</item>
+        <item>e13d</item>
+        <item>e43e</item>
+        <item>e04f</item>
+        <item>e052</item>
+        <item>e053</item>
+        <item>e524</item>
+        <item>e52c</item>
+        <item>e52a</item>
+        <item>e531</item>
+        <item>e050</item>
+        <item>e527</item>
+        <item>e051</item>
+        <item>e10b</item>
+        <item>e52b</item>
+        <item>e52f</item>
+        <item>e109</item>
+        <item>e01a</item>
+        <item>e52d</item>
+        <item>e521</item>
+        <item>e52e</item>
+        <item>e055</item>
+        <item>e525</item>
+        <item>e10a</item>
+        <item>e522</item>
+        <item>e054</item>
+        <item>e520</item>
+        <item>e032</item>
+        <item>e303</item>
+        <item>e307</item>
+        <item>e308</item>
+        <item>e437</item>
+        <item>e445</item>
+        <item>e11b</item>
+        <item>e448</item>
+        <item>e033</item>
+        <item>e112</item>
+        <item>e325</item>
+        <item>e312</item>
+        <item>e310</item>
+        <item>e126</item>
+        <item>e008</item>
+        <item>e03d</item>
+        <item>e00c</item>
+        <item>e12a</item>
+        <item>e009</item>
+        <item>e145</item>
+        <item>e144</item>
+        <item>e03f</item>
+        <item>e116</item>
+        <item>e10f</item>
+        <item>e101</item>
+        <item>e13f</item>
+        <item>e12f</item>
+        <item>e311</item>
+        <item>e113</item>
+        <item>e30f</item>
+        <item>e42b</item>
+        <item>e42a</item>
+        <item>e018</item>
+        <item>e016</item>
+        <item>e014</item>
+        <item>e131</item>
+        <item>e12b</item>
+        <item>e03c</item>
+        <item>e041</item>
+        <item>e322</item>
+        <item>e10e</item>
+        <item>e43c</item>
+        <item>e323</item>
+        <item>e31c</item>
+        <item>e034</item>
+        <item>e035</item>
+        <item>e045</item>
+        <item>e047</item>
+        <item>e30c</item>
+        <item>e044</item>
+        <item>e120</item>
+        <item>e33b</item>
+        <item>e33f</item>
+        <item>e344</item>
+        <item>e340</item>
+        <item>e147</item>
+        <item>e33a</item>
+        <item>e34b</item>
+        <item>e345</item>
+        <item>e01d</item>
+        <item>e10d</item>
+        <item>e136</item>
+        <item>e435</item>
+        <item>e252</item>
+        <item>e132</item>
+        <item>e138</item>
+        <item>e139</item>
+        <item>e332</item>
+        <item>e333</item>
+        <item>e24e</item>
+        <item>e24f</item>
+        <item>e537</item>
+        <item>e41d</item>
+    </string-array>
+    <string-array name="emoji_code">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="group_join_model">
+        <item>默认直接加入</item>
+        <item>需要身份验证</item>
+    </string-array>
+    <string-array name="chat_menu">
+        <item>删除</item>
+        <item>复制消息</item>
+    </string-array>
+    
+    <string-array name="chat_menu_image">
+        <item>删除</item>
+    </string-array>
+
+    <string-array name="chat_menu_delete">
+        <item>删除</item>
+    </string-array>
+    <string-array name="book_like_state">
+        <item>未读</item>
+        <item>想读</item>
+        <item>已读</item>
+        <item>正读</item>
+    </string-array>
+
+    <string-array name="creative_works_type">
+        <item>小说</item>
+        <item>漫画</item>
+        <item>画集</item>
+        <item>新闻</item>
+
+    </string-array>
+
+    <string-array name="creative_works_type2">
+        <item>小说</item>
+        <item>漫画</item>
+        <item>文集</item>
+        <item>画集</item>
+        <item>摄影</item>
+        <item>新闻</item>
+        <item>视频</item>
+    </string-array>
+
+
+    <string-array name="webview_image_actions">
+        <item>@string/fav_web_image</item>
+        <item>@string/share_pic</item>
+        <item>@string/share_circle</item>
+        <item>@string/share_to_topic_circle</item>
+        <item>@string/share_to_social</item>
+        <item>@string/save_pic</item>
+
+    </string-array>
+
+
+    <string-array name="webview_link_actions">
+
+
+        <item>@string/share_circle</item>
+        <item>@string/share_to_topic_circle</item>
+        <item>@string/share_to_social</item>
+
+
+    </string-array>
+
+    <string-array name="fs_image_actions">
+        <item>@string/delete</item>
+
+    </string-array>
+
+    <string-array name="fs_video_actions">
+        <item>@string/delete</item>
+
+    </string-array>
+
+    <string-array name="webview_action_image_goods">
+        <item>@string/share_pic</item>
+        <item>@string/share_circle</item>
+        <item>采集到商品</item>
+        <item>保存图片</item>
+
+    </string-array>
+
+    <string-array name="webview_action_image_visitor">
+        <item>社交分享</item>
+        <item>保存图片</item>
+    </string-array>
+
+    <string-array name="webview_action_image_news">
+        <item>@string/share_pic</item>
+        <item>@string/share_circle</item>
+        <item>@string/share_news</item>
+        <item>@string/save_pic</item>
+        <item>@string/more</item>
+    </string-array>
+
+
+    <string-array name="webview_image_actions_more">
+        <item>创建话题圈</item>
+        <item>发起话题</item>
+        <item>回复话题</item>
+        <item>返回</item>
+    </string-array>
+
+    <string-array name="webview_image_actions_social">
+        <item>发送给微信朋友</item>
+        <item>分享到微信朋友圈</item>
+        <item>发送给QQ朋友</item>
+        <item>分享到QQ空间</item>
+    </string-array>
+
+
+    <string-array name="rich_text_edit_menu">
+        <item>上移</item>
+        <item>下移</item>
+        <item>删除本项</item>
+        <item>删除上面</item>
+        <item>删除下面</item>
+    </string-array>
+
+    <string-array name="rich_text_edit_video">
+        <item>分享到视频</item>
+        <item>保存视频</item>
+    </string-array>
+
+    <string-array name="rich_text_add_menu">
+        <item>文字</item>
+        <item>图片</item>
+        <item>图集</item>
+    </string-array>
+
+
+    <string-array name="webview_action_link">
+        <item>新标签</item>
+        <item>打开链接</item>
+        <item>复制链接</item>
+
+    </string-array>
+
+    <string-array name="webview_bookmark_link">
+        <item>删除书签</item>
+
+    </string-array>
+
+    <string-array name="dlg_menu_tags">
+        <item>删除标签</item>
+    </string-array>
+
+    <string-array name="webview_history_link">
+        <item>删除历史</item>
+    </string-array>
+
+    <string-array name="user_agent">
+        <item>@string/agent_default</item>
+        <item>@string/agent_desktop</item>
+        <item>@string/agent_mobile</item>
+        <item>@string/agent_custom</item>
+    </string-array>
+
+    <string-array name="download_folder">
+        <item>@string/folder_default</item>
+        <item>@string/folder_custom</item>
+    </string-array>
+
+    <string-array name="homepage">
+        <item>@string/action_homepage</item>
+        <item>@string/action_blank</item>
+        <item>@string/action_bookmarks</item>
+        <item>@string/action_webpage</item>
+    </string-array>
+
+    <string-array name="text_size">
+        <item>@string/size_largest</item>
+        <item>@string/size_large</item>
+        <item>@string/size_normal</item>
+        <item>@string/size_small</item>
+        <item>@string/size_smallest</item>
+    </string-array>
+
+    <string-array name="hot_city">
+        <item >"上海"</item>
+        <item >"北京"</item>
+        <item >"广州"</item>
+        <item >"深圳"</item>
+        <item >"南宁"</item>
+        <item >"天津"</item>
+        <item >"杭州"</item>
+        <item >"南京"</item>
+        <item >"武汉"</item>
+    </string-array>
+
+</resources>

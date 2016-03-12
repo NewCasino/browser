@@ -1,0 +1,153 @@
+<resources>
+
+    <attr name="attrIconCall" format="reference" />
+    <attr name="CCPactionMenuTextAppearance" format="reference" />
+    <!-- Color for text that appears within action menu items. -->
+    <attr name="CCPactionMenuTextColor" format="color|reference" />
+
+    <declare-styleable name="MaskLayout">
+        <attr name="foreground" format="reference" />
+        <attr name="content_margin" format="dimension" />
+        <attr name="content_marginLeft" format="dimension" />
+        <attr name="content_marginRight" format="dimension" />
+        <attr name="content_marginTop" format="dimension" />
+        <attr name="content_marginBottom" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="AppPanel">
+        <attr name="dot_count" format="dimension" />
+        <attr name="dot_selected" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="form_input">
+        <attr name="form_layout" format="reference" />
+        <attr name="form_title" format="string" />
+        <attr name="form_hint" format="string" />
+    </declare-styleable>
+
+    <attr name="attrBgSelectedLetter" format="reference" />
+
+    <declare-styleable name="setting_info">
+        <attr name="item_titleText" format="string" />
+        <attr name="item_detailText" format="string" />
+        <attr name="item_accessoryType">
+            <enum name="none" value="0" />
+            <enum name="arrow" value="1" />
+            <enum name="switchbutton" value="2" />
+            <enum name="radio" value="3" />
+        </attr>
+        <attr name="item_showDivider" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="PullToRefresh">
+
+        <!-- A drawable toUserId use as the background of the Refreshable View -->
+        <attr name="ptrRefreshableViewBackground" format="reference|color" />
+
+        <!-- A drawable toUserId use as the background of the Header and Footer Loading Views -->
+        <attr name="ptrHeaderBackground" format="reference|color" />
+
+        <!-- Text Color of the Header and Footer Loading Views -->
+        <attr name="ptrHeaderTextColor" format="reference|color" />
+
+        <!-- Text Color of the Header and Footer Loading Views Sub Header -->
+        <attr name="ptrHeaderSubTextColor" format="reference|color" />
+
+        <!-- Mode of Pull-toUserId-Refresh that should be used -->
+        <attr name="ptrMode">
+            <flag name="disabled" value="0x00000000" />
+            <flag name="both" value="0x00000003" />
+            <!-- These last two are depreacted -->
+            <flag name="pullDownFromTop" value="0x00000001" />
+            <flag name="pullUpFromBottom" value="0x00000002" />
+        </attr>
+
+        <!-- Whether the Indicator overlay(s) should be used -->
+        <attr name="ptrShowIndicator" format="reference|boolean" />
+
+        <!-- Drawable toUserId use as Loading Indicator. Changes both Header and Footer. -->
+        <attr name="ptrDrawable" format="reference" />
+
+        <!-- Drawable toUserId use as Loading Indicator in the Header View. Overrides value set in ptrDrawable. -->
+        <attr name="ptrDrawableTop" format="reference" />
+
+        <!-- Drawable toUserId use as Loading Indicator in the Footer View. Overrides value set in ptrDrawable. -->
+        <attr name="ptrDrawableBottom" format="reference" />
+
+        <!-- Whether Android's built-in Over Scroll should be utilised for Pull-toUserId-Refresh. -->
+        <attr name="ptrOverScroll" format="reference|boolean" />
+
+        <!-- Base text color, typeface, size, and style for Header and Footer Loading Views -->
+        <attr name="ptrHeaderTextAppearance" format="reference" />
+
+        <!-- Base text color, typeface, size, and style for Header and Footer Loading Views Sub Header -->
+        <attr name="ptrSubHeaderTextAppearance" format="reference" />
+
+        <!-- Style of Animation should be used displayed when pulling. -->
+        <attr name="ptrAnimationStyle">
+            <flag name="rotate" value="0x00000000" />
+            <flag name="flip" value="0x00000001" />
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="Emojicon">
+        <attr name="emojiconSize" format="dimension" />
+        <attr name="emojiconTextStart" format="integer" />
+        <attr name="emojiconTextLength" format="integer" />
+        <attr name="emojiconUseSystemDefault" format="boolean" />
+    </declare-styleable>
+
+
+    <attr name="text" format="string" />
+    <attr name="text_size" format="dimension" />
+
+    <declare-styleable name="ChangeColorIconView">
+        <attr name="icon" />
+        <attr name="color" />
+        <attr name="text" />
+        <attr name="text_size" />
+    </declare-styleable>
+
+    <declare-styleable name="SwipeListView">
+        <attr name="swipeOpenOnLongPress" format="boolean"/>
+        <attr name="swipeAnimationTime" format="integer"/>
+        <attr name="swipeOffsetLeft" format="dimension"/>
+        <attr name="swipeOffsetRight" format="dimension"/>
+        <attr name="swipeCloseAllItemsWhenMoveList" format="boolean"/>
+        <attr name="swipeFrontView" format="reference"/>
+        <attr name="swipeBackView" format="reference"/>
+        <attr name="swipeMode" format="enum">
+            <enum name="none" value="0"/>
+            <enum name="both" value="1"/>
+            <enum name="right" value="2"/>
+            <enum name="left" value="3"/>
+        </attr>
+        <attr name="swipeActionLeft" format="enum">
+            <enum name="reveal" value="0"/>
+            <enum name="dismiss" value="1"/>
+            <enum name="choice" value="2"/>
+        </attr>
+        <attr name="swipeActionRight" format="enum">
+            <enum name="reveal" value="0"/>
+            <enum name="dismiss" value="1"/>
+            <enum name="choice" value="2"/>
+        </attr>
+        <attr name="swipeDrawableChecked" format="reference"/>
+        <attr name="swipeDrawableUnchecked" format="reference"/>
+        <attr name="swipeIsDropDownStyle" format="boolean" />
+        <attr name="swipeIsOnBottomStyle" format="boolean" />
+        <attr name="swipeIsAutoLoadOnBottom" format="boolean" />
+    </declare-styleable>
+
+
+    <declare-styleable name="VolumCircleBar">
+
+        <attr name="recordingColor" format="reference|color"/>
+        <attr name="stoppedColor" format="reference|color"/>
+        <attr name="centerRes" format="reference"/>
+        <attr name="blockCount" format="integer"/>
+        <attr name="splitAngle" format="integer"/>
+
+    </declare-styleable>
+
+    <declare-styleable name="PowerImageView">
+        <attr name="auto_play" format="boolean"></attr>
+    </declare-styleable>
+
+</resources>

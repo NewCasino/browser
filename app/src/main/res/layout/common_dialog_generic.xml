@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dialog_layout_root"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:paddingLeft="35.0dip"
+    android:paddingRight="35.0dip" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="60.0dip"
+        android:background="@drawable/bg_dialog_window"
+        android:clickable="true"
+        android:focusable="true"
+        android:minWidth="@dimen/MinDialogWidth"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0.0dip"
+            android:layout_weight="1.0"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/dialog_layout_title"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+               android:padding="@dimen/dialog_padding"
+                 >
+
+                <com.youkes.browser.ui.CCPTextView
+                    android:id="@+id/dialog_tv_title"
+                    style="@style/DialogTitle"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="left"
+                    android:soundEffectsEnabled="true"
+                    android:text="TextView"
+                    android:textSize="17.0sp" 
+                    android:visibility="visible"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/dialog_layout_content"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingBottom="25.0dip"
+                android:paddingLeft="@dimen/dialog_padding"
+                android:paddingRight="@dimen/dialog_padding"
+                android:paddingTop="4.0dip" >
+
+                <ScrollView
+                    style="@style/Style_Scrollable"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:scrollbars="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical" >
+
+                        <com.youkes.browser.ui.CCPTextView
+                            android:id="@+id/dialog_tv_message"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/text_content" />
+                    </LinearLayout>
+                </ScrollView>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/dialog_layout_button"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_dialog_btnbar"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:paddingTop="1.0px"
+            android:visibility="gone" >
+
+            <Button
+                android:id="@+id/dilaog_button1"
+                style="@style/DialogButton.Left"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="Button"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/dilaog_button2"
+                style="@style/DialogButton.Center"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="Button"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/dilaog_button3"
+                style="@style/DialogButton.Right"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="Button"
+                android:visibility="gone" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

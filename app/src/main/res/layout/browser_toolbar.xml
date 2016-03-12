@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/toolbar_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/top_bar_color"
+    android:orientation="vertical" >
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/browser_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="54dip"
+        custom:contentInsetEnd="0dp"
+        custom:contentInsetStart="0dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/progressBackgroundColor" >
+
+        <com.youkes.browser.view.AnimatedProgressBar
+            android:id="@+id/progress_view"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            custom:backgroundColor="#00000000"
+            custom:bidirectionalAnimate="false"
+            custom:progressColor="?attr/colorAccent" />
+    </LinearLayout>
+
+</LinearLayout>

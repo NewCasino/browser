@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.youkes.browser.ui.CCPLayoutListenerView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ccp_content_fl"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/transparent"
+    android:contentDescription="ccp_activity.xml" >
+
+    <Button
+        android:id="@+id/ccp_trans_layer"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@color/black"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:id="@+id/ccp_root_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" />
+
+</com.youkes.browser.ui.CCPLayoutListenerView>

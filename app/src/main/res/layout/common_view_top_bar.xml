@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout
+        android:id="@+id/common_top_wrapper"
+        android:layout_width="fill_parent"
+        android:layout_height="54dip"
+        android:baselineAligned="false"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:minWidth="@dimen/btn_topbar_layout_minwidth" >
+
+
+            <ImageView
+                android:id="@+id/btn_left"
+                android:layout_width="48dp"
+                android:layout_height="fill_parent"
+                android:layout_gravity="center_vertical"
+                android:background="@drawable/select_button_trans_dark"
+                android:scaleType="center"
+                android:visibility="gone" />
+
+            <ImageView
+                android:id="@+id/title_icon"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:clickable="false"
+                android:layout_gravity="center_vertical"
+               android:layout_marginTop="8dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginRight="12dp"
+                android:background="@drawable/select_button_trans_dark"
+                android:scaleType="centerCrop"
+                android:src="@drawable/icon"
+                android:visibility="gone" />
+
+
+            <TextView
+                android:id="@+id/text_left_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="2dp"
+                android:gravity="center"
+                android:minWidth="@dimen/btn_topbar_minwidth"
+                android:shadowDy="2.0"
+                android:padding="4dp"
+                android:textSize="@dimen/size_top_title_size"
+                android:drawableRight="@drawable/common_top_bar_arrow_down"
+                android:textColor="@color/white"
+                android:text="@string/empty"
+                android:background="@drawable/select_button_trans_dark"
+                android:visibility="gone" />
+
+
+            <TextView
+                android:id="@+id/text_left"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="2dp"
+                android:gravity="center"
+                android:minWidth="@dimen/btn_topbar_minwidth"
+                android:shadowDy="2.0"
+                android:textColor="@color/edit_save_btn_text_color"
+                android:textSize="@dimen/size_small"
+                android:visibility="gone" />
+
+            <ImageView
+                android:id="@+id/topbar_update_point"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="34.0dip"
+                android:layout_marginTop="11.0dip"
+                android:src="@drawable/icon_update_point"
+                android:visibility="gone" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0"
+            android:gravity="center_vertical"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/btn_middle"
+                style="@style/style_topbar_textview_shadow"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:drawablePadding="4.0dip"
+                android:ellipsize="end"
+                android:gravity="center_vertical"
+                android:singleLine="true"
+                android:textColor="#ffffffff"
+                android:text="@string/app_name"
+                android:textSize="@dimen/size_top_title_size"
+                android:visibility="visible" />
+
+            <TextView
+                android:id="@+id/btn_middle_sub"
+                style="@style/style_topbar_textview_shadow"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="-3.0dip"
+                android:ellipsize="end"
+                android:gravity="center_vertical"
+                android:padding="0.0dip"
+                android:singleLine="true"
+                android:textColor="#ff848484"
+                android:textSize="@dimen/size_small"
+                android:visibility="gone" />
+        </LinearLayout>
+
+
+
+
+
+        <ImageView
+            android:id="@+id/btn_search"
+            android:layout_width="@dimen/btn_topbar_minwidth"
+            android:layout_height="fill_parent"
+            android:layout_gravity="right|center"
+            android:src="@drawable/ic_search_dark"
+            android:background="@drawable/select_button_trans_dark"
+            android:scaleType="center"
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/finish_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|center"
+            android:background="@drawable/btn_style_green"
+            android:layout_marginRight="4dp"
+            android:clickable="true"
+            android:gravity="center"
+            android:minWidth="@dimen/btn_topbar_minwidth"
+            android:minHeight="@dimen/SmallButtonHeight"
+            android:shadowDy="2.0"
+            android:text="@string/finish"
+            android:visibility="gone"
+            android:textColor="@color/white"
+            android:textSize="@dimen/size_small" />
+
+
+        <FrameLayout
+            android:id="@+id/top_right"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:minWidth="@dimen/btn_topbar_layout_minwidth" >
+
+            <RelativeLayout
+                android:id="@+id/top_progressbar"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_gravity="right|center"
+                android:minWidth="@dimen/btn_topbar_minwidth"
+                android:visibility="gone" >
+
+                <ProgressBar
+                    style="?android:attr/progressBarStyleSmall"
+                    android:layout_width="20.0dip"
+                    android:layout_height="20.0dip"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true" />
+            </RelativeLayout>
+
+
+
+            <ImageView
+                android:id="@+id/btn_right"
+                android:layout_width="@dimen/btn_topbar_minwidth"
+                android:layout_height="fill_parent"
+                android:layout_gravity="right|center"
+                android:background="@drawable/select_button_trans_dark"
+                android:scaleType="center"
+                android:visibility="gone" />
+
+            <ImageView
+                android:id="@+id/right_point"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="58.0dip"
+                android:layout_marginTop="11.0dip"
+                android:src="@drawable/icon_update_point"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/text_right"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right|center"
+                android:layout_marginRight="@dimen/btn_topbar_marginHorizontal"
+                android:gravity="center"
+                android:minWidth="@dimen/btn_topbar_minwidth"
+                android:minHeight="@dimen/SmallButtonHeight"
+                android:shadowDy="2.0"
+                android:textColor="@color/common_top_bar_right_string_color"
+                android:textSize="@dimen/size_small"
+                android:visibility="gone" />
+        </FrameLayout>
+    </LinearLayout>
+</merge>

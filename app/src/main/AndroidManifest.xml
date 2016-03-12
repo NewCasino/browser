@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.youkes.browser" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- 允许程序访问有关的网络信息 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 允许程序访问Wi-Fi网络状态信息 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <!-- 允许应用写（非读）用户的外部存储器 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- 允许读取电话的状态 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <!-- 允许一个程序获取信息有关当前或最近运行的任务，一个缩略的任务状态，是否活动等等 -->
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <!-- GPS定位权限(非必选，由应用选择是否需要) -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+
+
+
+    <application
+        android:persistent="true"
+        android:name=".MainApp"
+        android:hardwareAccelerated="true"
+        android:largeHeap="true"
+        android:allowBackup="true"
+        android:icon="@drawable/icon_browser_96"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+
+        <meta-data android:value="56c3061067e58e16c4001be3" android:name="UMENG_APPKEY"/>
+        <meta-data android:value="youkes_browser_qq" android:name="UMENG_CHANNEL"/>
+
+        <activity
+            android:name="com.youkes.browser.activity.BrowserMainActivity"
+            android:alwaysRetainTaskState="true"
+            android:configChanges="orientation|screenSize|keyboardHidden|keyboard"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+
+            >
+            <intent-filter>
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <category android:name="android.intent.category.APP_BROWSER" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="http" />
+                <data android:scheme="https" />
+                <data android:scheme="about" />
+                <data android:scheme="javascript" />
+            </intent-filter>
+            <!--
+                  For these schemes where any of these particular MIME types
+                  have been supplied, we are a good candidate.
+
+
+            -->
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.BROWSABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:scheme="http" />
+                <data android:scheme="https" />
+                <data android:scheme="inline" />
+                <data android:mimeType="text/html" />
+                <data android:mimeType="text/plain" />
+                <data android:mimeType="application/xhtml+xml" />
+                <data android:mimeType="application/vnd.wap.xhtml+xml" />
+            </intent-filter>
+            <!-- For viewing saved web archives. -->
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.BROWSABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:scheme="http" />
+                <data android:scheme="https" />
+                <data android:scheme="file" />
+                <data android:mimeType="application/x-webarchive-xml" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.WEB_SEARCH" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+
+                <data android:scheme="http" />
+                <data android:scheme="https" />
+            </intent-filter>
+        </activity>
+
+
+        <activity
+            android:name="com.youkes.browser.site.SiteHotActivity"
+            android:windowSoftInputMode="adjustResize|stateHidden" >
+        </activity>
+
+
+
+    </application>
+</manifest>

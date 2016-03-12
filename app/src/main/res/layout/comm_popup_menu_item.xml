@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+   Copyright (c) 2013 The CCP project authors. All Rights Reserved.
+ 
+   Use of this source code is governed by a Beijing Speedtong Information Technology Co.,Ltd license
+   that can be found in the LICENSE file in the root of the web site.
+ 
+    				http://www.yuntongxun.com
+ 
+   An additional intellectual property rights grant can be found
+   in the file PATENTS.  All contributing project authors may
+   be found in the AUTHORS file in the root of the source tree.
+ -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/popup_container"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/common_popup_menu_item"
+    android:minHeight="@dimen/popup_menu_item_minHeight"
+    android:minWidth="@dimen/popup_menu_item_width"
+    android:orientation="horizontal"
+    android:paddingBottom="4.0dip"
+    android:paddingRight="38.0dip"
+    android:paddingTop="4.0dip" >
+
+    <ImageView
+        android:id="@+id/popup_menu_item_left_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginBottom="@dimen/popup_menu_image_margin_bottom"
+        android:layout_marginLeft="@dimen/popup_menu_image_margin_left"
+        android:layout_marginRight="@dimen/popup_menu_image_margin_right"
+        android:layout_marginTop="@dimen/popup_menu_image_margin_top" />
+
+    <TextView
+        android:id="@+id/popup_menu_item_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:shadowColor="#ff3f3f3f"
+        android:shadowDy="-2.0"
+        android:singleLine="true"
+        android:textSize="18.0sp" />
+
+    <ImageView
+        android:id="@+id/popup_menu_image_red"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5.0dip"
+        android:src="@drawable/icon_update_point" />
+
+</LinearLayout>
