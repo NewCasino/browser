@@ -476,7 +476,7 @@ public class BookmarkManager {
 
 	private static final String[] Meipai = {"http://www.meipai.com/", "美拍"};
 
-
+	private static final String[] YidianZhixun = {"http://www.yidianzixun.com/", "一点资讯"};
 
 
 
@@ -507,7 +507,7 @@ public class BookmarkManager {
 			Iqiyi,
 			Tudou,
 
-
+			YidianZhixun,
 			Hongxiu,
 
 			Kugou,
