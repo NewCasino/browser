@@ -1,6 +1,8 @@
 ## 欢迎来到优分享浏览器开源项目 ##
 
 **优分享浏览器** 
+优分享VR是[优分享安卓APP](http://youkes.com/shareapp "优分享安卓APP")内嵌安卓浏览器开源部分。
+其它开源部分：[优分享VR开源](http://git.oschina.net/xumingwang/youkes_vr "优分享VR开源")
 
 优分享浏览器是安卓平台下的一个多标签的简洁移动网页浏览器源代码全部开放，你可以自由改进它或者基于它制作一些独特的工具，也可以嵌入到你的APP中提供移动网页浏览或分享功能。你可以点击页面中的图片以便分享该图片到社交网络。
 
@@ -51,3 +53,4 @@ git clone https://git.oschina.net/xumingwang/youkes_browser.git
 ![](http://git.oschina.net/uploads/images/2016/0312/141301_071e9d1c_695788.png "")
 
 
+[优分享浏览器介绍](http://youkes.com/youkes_browser "下载APP试用")
